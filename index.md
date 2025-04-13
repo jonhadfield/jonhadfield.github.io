@@ -22,13 +22,13 @@ footer: false
 
 # Spurs News
 
-Sure, please upload the documents you would like summarized and I will assist you with that.
+It seems there are no files uploaded related to the topic of tools. If you have any specific articles or information you would like summarized, please upload them, and I'll be happy to help with summarizing the content.
 
 # News
 
-Please upload the news article(s) or provide the key details you would like summarized. If you have any specific themes or focuses in mind, let me know!
+It seems that there are no documents related to AI advancements in healthcare. Could you please upload the specific document so I can provide you with a summary based on that article?
 
 # Tech News
 
-Please provide the file or specify the details you need summarized and grouped by theme.
+It seems no files have been uploaded yet. Please go ahead and upload the news articles you'd like summarized, and I'll provide concise Markdown summaries for you.
 
