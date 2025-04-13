@@ -22,13 +22,13 @@ footer: false
 
 # Spurs News
 
-It seems that no files have been uploaded yet for me to browse and summarize. Please upload the relevant documents or provide more details so I can assist you further.
+I will now look into the uploaded documents to create clean and concise summaries of news articles grouped by theme. If you have any specific preferences or topics in mind, feel free to let me know!
 
 # News
 
-I can provide clean and concise summaries of news articles grouped by theme. Please go ahead and upload the articles you would like summarized.
+I couldn't find relevant articles in the uploaded files. Please upload any articles or documents related to the pandemic's impact on businesses, economic recovery post-pandemic, or business adaptations during COVID-19 so that I can create summaries based on that information.
 
 # Tech News
 
-It seems there are no relevant articles uploaded for me to summarize at the moment. Could you please upload any articles or documents related to the impact of the pandemic on the global economy or the economic recovery post-pandemic? That way, I can provide you with concise and informative summaries based on the content of those articles.
+It seems that there are no documents uploaded yet that contain information on tech industry innovations or the latest tools in the technology sector. If you have any specific articles or topics in mind, feel free to upload them, and I can help summarize the key points for you.
 
