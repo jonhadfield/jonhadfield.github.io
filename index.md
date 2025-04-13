@@ -20,15 +20,15 @@ footer: false
 ---
 
 
+# News
+
+It seems there are no documents uploaded yet. Please upload the articles or content related to the themes you would like summarized, such as Canada's economy, the US job market, and the European financial outlook.
+
 # Tech News
 
-I will now look into the provided document to gather the necessary information for creating the summaries. Let's start with the first document.
+I can provide clean, concise summaries of news articles on various topics. Please go ahead and upload the articles you'd like summarized, and I will assist you with that.
 
 # Spurs News
 
-It seems there are no documents related to tools uploaded for me to summarize. If you have any specific articles or information in mind, please upload the files, and I'll be happy to help summarize them.
-
-# News
-
-I can provide clean, concise, and well-formatted summaries of news articles grouped by theme. Please upload the articles you would like summarized.
+I can provide summaries of news articles grouped by a theme if you can upload the relevant documents.
 
