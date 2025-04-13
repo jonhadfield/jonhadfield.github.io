@@ -20,15 +20,15 @@ footer: false
 ---
 
 
+# Tech News
+
+I can provide summaries of news articles. Please upload the documents you would like me to summarize.
+
 # Spurs News
 
-To proceed with summarizing news articles related to technology, could you please upload the file containing the information?
+It appears that there are no relevant documents uploaded related to tools and technologies driving digital transformation in businesses. If you have any specific articles or information in mind, please upload them so I can generate summaries based on those sources.
 
 # News
 
-I can provide concise and structured summaries of news articles by theme. Please go ahead and upload the articles you'd like me to summarize.
-
-# Tech News
-
-It seems no files have been uploaded yet. Please upload the documents containing the news articles you would like summarized so I can proceed with creating the summaries based on the themes you provide.
+I can provide clean and concise summaries of news articles grouped by a theme. Please go ahead and upload the articles you would like me to summarize.
 
