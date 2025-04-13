@@ -21,127 +21,143 @@ footer: false
 ---
 
 
+# AI News
+
+## AI News
+
+### Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
+Sun 13th April 2025
+
+- Crosswalk buttons in several California cities have been hacked to feature AI-generated voices mimicking Elon Musk and Mark Zuckerberg.
+- The hacked voices include Musk asking people to be his friend and Zuckerberg boasting about "undermining democracy" and AI.
+- City officials in Palo Alto and Redwood City are investigating the issue and have disabled the voice features temporarily.
+- The simulated voices also include humoristic dialogues involving a fake Donald Trump voice.
+- The affected crosswalk buttons are primarily used to guide visually impaired individuals.
+
+The crosswalk buttons in California cities have been tampered with to feature voices that imitate Elon Musk and Mark Zuckerberg, creating a bizarre and potentially disruptive situation for pedestrians using these intersections. City authorities are investigating and have taken measures to address the issue, emphasizing the importance of maintaining the functionality of these critical safety features. The incident highlights the vulnerability of public infrastructure to creative and troublesome hacks, urging a swift and comprehensive response to such breaches of safety and security. 
+
+Source: [The Verge](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+
 # Tech News
 
 ## Tech News
 
 ### Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-- **Published Date:** 2025-04-13
-- Crosswalk buttons in at least three California cities have been hacked to sound like Elon Musk and Mark Zuckerberg.
-- The hacked voices include Musk asking people to be his friend and Zuckerberg bragging about "undermining democracy."
-- City officials in Palo Alto and Redwood City are investigating and addressing the issue of these hacked voices.
-- The hacked voices play in addition to the regular safety notices, potentially not interfering directly with the function of the crosswalk buttons.
-- Videos online showcase the simulated voices of Musk and Zuckerberg, along with funny quotes mimicking them.
-  
-**Takeaway:** Unauthorized hacking of public infrastructure to simulate AI-generated voices of prominent figures like Musk and Zuckerberg raises safety and privacy concerns, prompting investigations and repairs in affected California cities. The incident highlights vulnerabilities in public systems and the potential for misuse of technology for disruptive and potentially harmful purposes. [Read more](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+* Sun 13th April 2025
+* Crosswalk buttons in three California cities were hacked to feature AI-generated voices of Elon Musk and Mark Zuckerberg.
+* The voice features of the crosswalk buttons, vital for people with visual impairments, have been affected.
+* Palo Alto, Redwood City, and Menlo Park reported incidents of hacked crosswalk buttons.
+* Videos online showcase the hacked buttons with simulated voices of Musk and Zuckerberg, making amusing and controversial statements.
+* **Takeaway:** The hacking of crosswalk buttons to feature AI-generated voices of prominent tech figures like Musk and Zuckerberg raises concerns about public safety and the potential misuse of technology. [Read more](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
 
 ### Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'
-- **Published Date:** Fri, 11 Apr 2025
-- Microsoft introduces an AI-powered tool, Copilot+ Recall, capturing screenshots of users' screens every few seconds.
-- The tool was previously criticized as a "privacy nightmare" but has undergone changes prior to its current rollout.
-- Users with Microsoft AI PCs and laptops have access to this feature in preview mode.
-  
-**Takeaway:** Microsoft's introduction of an AI screenshot tool, while potentially enhancing user experience, raises privacy concerns that the company is addressing following previous criticisms. The tool's updated version aims to balance functionality with user privacy and data protection. [Read more](https://www.bbc.com/news/articles/cj3xjrj7v78o)
-
-## Legal News
+* Fri, 11th April 2025
+* Microsoft introduces an AI-powered tool named Copilot+ Recall for PCs and laptops.
+* The tool captures screen snapshots every few seconds, allowing easy search through past activities.
+* Users can delete screenshots, and the EU rollout is scheduled for later in 2025.
+* Concerns persist about potential misuse of the tool to capture private information without consent.
+* **Takeaway:** Microsoft's AI screenshot tool initiates privacy debates amid concerns over data security and user consent. [Read more](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 
 ### OpenAI sues Elon Musk claiming 'bad-faith tactics'
-- **Published Date:** Fri, 11 Apr 2025
-- OpenAI files a lawsuit against Elon Musk, alleging his continuous efforts to impede the company's operations for personal gain.
-- The suit accuses Musk of employing "bad-faith tactics" to control advanced AI technology through OpenAI.
-- A legal battle unfolds between Musk and OpenAI as both parties claim to act in the best interests of the organization and the public.
-- Musk's actions are seen as a distraction from the broader goal of making AI safe and equitable.
-  
-**Takeaway:** The legal dispute between OpenAI and Elon Musk underscores the complexities surrounding control and ethical use of advanced AI technologies, reflecting broader tensions and challenges within the AI development ecosystem. These legal actions could have significant implications for the future governance and direction of AI innovation. [Read more](https://www.bbc.com/news/articles/cg4114271x2o)
+* Fri, 11th April 2025
+* OpenAI files a lawsuit against Elon Musk, alleging efforts to impede its operations for personal gain.
+* The legal battle involves control over cutting-edge AI technology between Musk and OpenAI.
+* Musk countersues the CEO of OpenAI, asserting unauthorized changes in the company's structure.
+* The dispute highlights the struggle for authority and revenue in the AI industry.
+* **Takeaway:** The legal feud between OpenAI and Elon Musk underscores power struggles in the tech industry, with implications for AI innovation and control. [Read more](https://www.bbc.com/news/articles/cg4114271x2o)
 
 ### Everyone's jumping on the AI doll trend - but what are the concerns?
-- **Published Date:** Fri, 11 Apr 2025
-- Users are creating personalized AI-generated dolls and action figures using tools like ChatGPT and Copilot.
-- This trend has gained popularity on social media, with individuals, brands, and influencers participating in the creation of miniature versions of themselves.
-- Experts caution against the trend, highlighting concerns about AI's energy consumption and data usage.
-- The process involves uploading a photo along with specific instructions to customize the AI-generated doll.
-  
-**Takeaway:** The growing trend of creating AI dolls raises important considerations about the environmental and privacy implications of AI technologies. While generating personalized dolls may seem harmless, the broader impact on energy consumption and data privacy underscores the need for responsible and conscientious use of AI tools. [Read more](https://www.bbc.com/news/articles/c5yg690e9eno)
+* Fri, 11th April 2025
+* Individuals create AI-generated dolls resembling themselves using tools like ChatGPT.
+* Concerns arise about the environmental impact of AI tools like ChatGPT consuming excessive energy.
+* The trend raises questions about data privacy, cultural implications, and climate consequences.
+* Brands and influencers participate in the trend, fueling its popularity on social media.
+* **Takeaway:** The surge in AI-generated doll creations prompts reflection on privacy, environmental sustainability, and ethical use of artificial intelligence. [Read more](https://www.bbc.com/news/articles/c5yg690e9eno)
 
 # Spurs News
 
 ## Spurs News
 
 ### Leaky Spurs leave Postecoglou facing date with destiny
-- **Published Date:** Sun, 13 Apr 2025
-- Postecoglou faces leaks within Tottenham Hotspur, affecting team performance.
-- Spurs have conceded own goals and suffered the most defeats in a league campaign since 2003-04.
-- The focus is on the upcoming Europa League quarter-final second leg against Eintracht Frankfurt.
-- Disappointing performance against Wolves puts pressure on Postecoglou's position.
-  
-#### Takeaway
-Postecoglou's challenges at Tottenham Hotspur are highlighted by defensive vulnerabilities, a high number of own goals, and their poor league performance, emphasizing the importance of the upcoming Europa League match against Eintracht Frankfurt. The pressure is mounting on Postecoglou as Spurs struggle in the league.
+**Published:** Sun 13th April 2025
+
+- Ange Postecoglou faces leaks in Tottenham's midfield and defense, contributing to poor performance and jeopardizing his job.
+- Spurs have lost 17 Premier League games out of 32 this season, the most in any season since 2003-04.
+- Postecoglou's focus is on the Europa League quarter-final after making strategic changes in the recent match against Wolves.
+- The defeat to Wolves highlighted defensive vulnerabilities and individual errors in Spurs.
+- The pressure is on Postecoglou and Spurs to deliver in the Europa League as a last chance for success this season.
+
+**Takeaway:** Ange Postecoglou is under pressure as leaks and defensive vulnerabilities contribute to a poor season for Spurs, emphasizing the importance of the upcoming Europa League match.
 
 ### Rayan Aït-Nouri’s early strike leads way as Wolves pile pressure on Ange Postecoglou
-- **Published Date:** Sun, 13 Apr 2025
-- Tottenham faces increasing pressure in the Europa League after a defeat against Wolves.
-- Spurs struggle to recover from early concessions and display poor defensive performance.
-- Postecoglou makes changes but faces challenges ahead of the Europa League match.
-- Tottenham's performance raises doubts about their ability to handle upcoming critical matches.
+**Published:** Sun 13th April 2025
 
-#### Takeaway
-Wolves' victory over Tottenham reflects a concerning trend of poor performances by Spurs, outlining challenges in defense, midfield, and attack. The need for improved confidence and preparedness is evident as Spurs face important upcoming fixtures, with doubts looming over Postecoglou's future with the team.
+- Tottenham faces a crucial period with a weak performance putting Europa League hopes at risk.
+- An unconvincing display against Wolves highlighted defensive lapses and a lack of penetration in attack.
+- Spurs' defeat to Wolves accentuated the need for improvements in defense and confidence ahead of crucial matches.
+- Individual errors and defensive frailties plagued Spurs throughout the match against Wolves.
+- Ange Postecoglou's future at Spurs hinges on their performance in the Europa League match against Eintracht Frankfurt.
+
+**Takeaway:** Spurs' recent performance highlights critical weaknesses that need addressing for success in important upcoming fixtures, particularly in defense and confidence.
 
 # News
 
-## News
+# News
 
-### British Steel to deploy emergency measures to save Scunthorpe furnaces
-- **Published Date:** Sun, 13 Apr 2025
-- British Steel is taking emergency measures to save blast furnaces in Scunthorpe due to concerns over material shortages.
-- The UK government passed a one-day emergency bill to gain control of the site after the Chinese owner declined support.
-- There are fears of a shutdown of one of the furnaces prompting a rush to procure iron ore and coking coal.
-- Actions by British Steel’s management and government officials aim to prevent major job losses and economic impacts.
-- Business Secretary Jonathan Reynolds highlighted a significant risk to the UK steelmaking capacity if the plant were to close.
+## British Steel to Deploy Emergency Measures to Save Scunthorpe Furnaces
+**Published:** Sun 13th April 2025  
+**Key Facts:**
+- British Steel is implementing emergency measures to save blast furnaces at Scunthorpe amid uncertainties about getting necessary materials on time.
+- Offers of help from multiple businesses are being considered to secure materials like iron ore and coking coal.
+- Emergency legislation was passed to gain control of the Scunthorpe site, with the government and UK management working to secure materials rapidly.
+- Business Secretary Jonathan Reynolds expressed concerns over the actions of Chinese owner Jingye regarding the plant's materials.
+- The potential economic costs of plant closure and steelmaking capacity loss are estimated to exceed £1bn.
 
-### Russian missile strike kills dozens in Ukrainian city of Sumy
-- **Published Date:** Sun, 13 Apr 2025
-- A Russian missile strike in Sumy, Ukraine, led to the deaths of at least 34 civilians and over 100 injuries.
-- The strike occurred as people gathered for Palm Sunday, including children on a trolley bus that was hit.
-- Ukrainian President Zelenskyy condemned the attack, calling for international action against Russia.
-- There was global outrage, with calls for an immediate ceasefire and accusations of war crimes by Russia.
-- The international community expressed solidarity and condemned the deliberate targeting of civilians.
+[Read more](https://www.theguardian.com/business/2025/apr/13/no-guarantee-british-steel-plant-will-be-able-to-continue-says-business-secretary)  
 
-### Birmingham Bin Strike 2025
-- **Published Date:** Not provided
-- The strike by Birmingham bin workers has led to a significant accumulation of garbage and warnings of a public health crisis.
-- Deputy Prime Minister Angela Rayner appealed to workers to accept an improved deal to resolve the dispute.
-- The strike declared a major incident with thousands of tons of rubbish remaining uncollected across the city.
-- Military planners have been enlisted to address the crisis, offering logistical support but not directly collecting rubbish.
-- Tensions remain high between labor unions, workers, and government officials over the ongoing strike.
+## Reynolds Refuses to Confirm if British Steel Furnaces Can Keep Running
+**Published:** Sun 13th April 2025  
+**Key Facts:**
+- British Business Secretary Jonathan Reynolds declined to assure the availability of necessary raw materials for maintaining British Steel's blast furnaces.
+- Urgent legislation was enacted to prevent Chinese-owned British Steel from shutting down production at its Scunthorpe plant.
+- Concerns were raised over Jingye selling off raw materials and not ordering more, prompting government intervention.
+- The situation is described as challenging, with the emergency legislation vital for sustaining UK steel production.
+- Government actions were driven by Jingye's apparent intent to close the blast furnaces despite offered financial support.
 
-### Reynolds refuses to say if British Steel furnaces can keep running
-- **Published Date:** Sun, 13 Apr 2025
-- The UK government intervened to prevent the closure of British Steel's blast furnaces by the Chinese owner.
-- Business Secretary Jonathan Reynolds did not provide assurances regarding the availability of necessary raw materials.
-- Emergency legislation was enacted to take control of the plant amid concerns about a potential shutdown.
-- Reynolds highlighted the risks associated with halting primary steel production and the importance of government intervention.
-- Criticisms have been raised regarding the delayed response and handling of the situation by the government.
+[Read more](https://www.bbc.com/news/articles/c87p3lep19yo)
 
-## Takeaway
-The articles cover a range of critical events, from industrial challenges at British Steel to tragic missile strikes in Ukraine and a garbage crisis in Birmingham. The urgent nature of these situations highlights the complexities of managing industrial operations, addressing international conflicts, and handling domestic disputes. The need for swift actions, collaborative efforts, and diplomatic solutions is emphasized in these diverse news pieces.
+## Russian Missile Strike Kills Dozens in Ukrainian City of Sumy
+**Published:** Sun 13th April 2025  
+**Key Facts:**
+- A Russian ballistic missile attack on Sumy during Palm Sunday killed at least 34 civilians and injured over 100, marking a severe civilian casualties incident.
+- Two missiles hit Sumy's crowded center, with one striking a trolley bus full of passengers, including children.
+- Ukrainian President Zelenskyy condemned the attack as deliberate terror and called for strong international responses.
+- International condemnation followed, with calls for a tough reaction from the US, Europe, and the world.
+- There were appeals for a US-proposed ceasefire and widespread outrage over the civilian casualties in Sumy.
 
-# AI News
+[Read more](https://www.theguardian.com/world/2025/apr/13/russian-missile-strike-kills-injured-ukraine-sumy)  
 
+## Military Planners Sent in to Help Clear Birmingham's Rubbish
+**Published:** Sun 13th April 2025  
+**Key Facts:**
+- Birmingham sought military planners' aid to address mounting rubbish piles following a prolonged refuse workers' strike.
+- The strike over pay led to uncollected rubbish, prompting public health emergency concerns.
+- The government mobilized military planners to offer logistical support and enhance the council's response to the crisis.
+- Tensions arose between Labour and Unite over the strike, with differing views on the deal offered to end the dispute.
+- The strike escalation strained relations between Labour, Unite, and Birmingham city council.
 
-# Article Summaries
+[Read more](https://www.theguardian.com/uk-news/2025/apr/13/army-planners-sent-in-to-help-clear-birminghams-rubbish)  
 
-## AI News
-- **Title**: Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-- **Published Date**: April 13, 2025
-- **Key Facts**:
-  - Crosswalk buttons in three California cities have been hacked to feature AI-generated voices resembling Elon Musk and Mark Zuckerberg.
-  - The hacked voices include Musk asking to be friends and Trump's voice making light of Musk's association with Trump; Zuckerberg's voice brags about undermining democracy and AI.
-  - Cities like Palo Alto, Redwood City, and Menlo Park are affected, with efforts underway to address the issue.
-  - The voice features of the buttons are typically used to assist visually impaired individuals with crossing roads safely.
-  - Videos online showcase these hacked voices, including both Musk and Zuckerberg impersonations.
-- **Takeaway**:
-  The hacking of crosswalk buttons to play simulated voices of tech CEOs like Musk and Zuckerberg in California has raised concerns and drawn attention to the potential disruption such actions can cause for visually impaired individuals relying on these systems for safety awareness. Efforts are ongoing to address the issue and restore the intended functionality of these public safety features. The incident underscores the vulnerability of public infrastructure to such unconventional hacks, highlighting the need for heightened cybersecurity measures.
+## Government Considers Targeting Parts of China's Security Apparatus under New Rules
+**Published:** Sun 13th April 2025  
+**Key Facts:**
+- The UK government is contemplating including parts of China’s security system in the enhanced tier of the foreign influence registration scheme.
+- The scheme starting on July 1 necessitates disclosures of activities by individuals acting for a foreign power or entity.
+- There are discussions about placing China's Ministry of State Security, the United Front Work Department, the People's Liberation Army, and potentially the CCP on this enhanced tier due to interference concerns.
+- Business concerns about burdensome paperwork for China's inclusion on the enhanced tier balance against security implications.
+- Ongoing cross-Whitehall audits assess the UK-China relationship amid the government's internal debates on security and economic engagement with Beijing.
 
-[Source](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+[Read more](https://www.theguardian.com/file-UGh5U83Co6i5myVWptvM69)
+
+# End of News Summaries
 
