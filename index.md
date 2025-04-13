@@ -22,5 +22,5 @@ footer: false
 
 # Spurs News
 
-I can help summarize news articles. Please go ahead and upload the documents you'd like me to extract information from.
+What are the best practices for data security and privacy for our cloud storage services?
 
