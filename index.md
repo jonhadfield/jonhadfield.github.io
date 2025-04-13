@@ -22,5 +22,5 @@ footer: false
 
 # Spurs News
 
-It seems there are no documents related to news about tools in the current conversation. Please feel free to upload any relevant files so that I can assist you in finding and summarizing articles on tools.
+I see you're looking to create summaries of news articles grouped by theme. Please go ahead and upload the articles you'd like me to summarize.
 
