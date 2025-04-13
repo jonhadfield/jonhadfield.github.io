@@ -20,15 +20,15 @@ footer: false
 ---
 
 
+# Tech News
+
+I can provide summaries of news articles on various themes. Please upload the specific documents you'd like me to extract information from.
+
 # Spurs News
 
-It seems there are no files uploaded related to the topic of tools. If you have any specific articles or information you would like summarized, please upload them, and I'll be happy to help with summarizing the content.
+It seems that there are no relevant documents uploaded for me to summarize. Please upload the articles or provide more specific keywords related to financial markets that you would like me to search for.
 
 # News
 
-It seems that there are no documents related to AI advancements in healthcare. Could you please upload the specific document so I can provide you with a summary based on that article?
-
-# Tech News
-
-It seems no files have been uploaded yet. Please go ahead and upload the news articles you'd like summarized, and I'll provide concise Markdown summaries for you.
+It seems no files have been uploaded yet. Please upload the relevant document containing the news articles you would like summarized, and I will proceed with creating the Markdown summaries for you.
 
