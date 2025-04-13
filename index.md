@@ -27,116 +27,109 @@ footer: false
 ## Leaky Spurs leave Postecoglou facing date with destiny
 **Published:** Sunday, April 13, 2025
 
-- Tottenham Hotspur has been struggling, with significant leaks in midfield and defense contributing to losses.
-- Spurs have lost 17 Premier League games out of 32, the highest in any season, placing them in 15th position.
-- Postecoglou faces a crucial Europa League quarter-final second-leg match after making changes to the team lineup.
+- Tottenham Hotspur's struggles attributed to leaks in midfield and defense, leading to many defeats this season.
+- Ange Postecoglou faces pressure after a disheartening 4-2 loss to Wolves, highlighting defensive vulnerabilities.
+- Postecoglou's focus shifts to Europa League quarter-final against Eintracht Frankfurt after a disappointing league performance.
 
-**Takeaway:** Tottenham's recent struggles highlight the necessity for improvement, especially as they focus on crucial upcoming matches. [Read original article](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
+**Takeaway:** Spurs' defensive weaknesses and leaky performances put Postecoglou's position at risk, focusing on the crucial Europa League match ahead. [Read original article](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
 
 ## Rayan Aït-Nouri’s early strike leads way as Wolves pile pressure on Ange Postecoglou
 **Published:** Sunday, April 13, 2025
 
-- Spurs faced a disappointing performance against Wolves, increasing the pressure on Ange Postecoglou.
-- The defeat highlights the team's vulnerabilities, especially in defense, with mistakes leading to goals.
-- The upcoming Europa League match against Eintracht Frankfurt is crucial for Postecoglou's ambitions.
+- Wolves dominate Spurs with a 4-2 victory, showcasing defensive vulnerabilities and errors by Tottenham.
+- Postecoglou makes strategic changes ahead of Europa League match but faces confidence challenges.
+- Spurs' defensive lapses and lack of organization allow Wolves to secure a significant win.
 
-**Takeaway:** Tottenham's recent struggles intensify the focus on their upcoming Europa League match as a make-or-break moment for the team. [Read original article](https://www.theguardian.com/football/2025/apr/13/wolves-tottenham-premier-league-match-report)
+**Takeaway:** Wolves capitalize on Spurs' defensive weaknesses, adding pressure on Postecoglou ahead of a crucial match. [Read original article](https://www.theguardian.com/football/2025/apr/13/wolves-tottenham-premier-league-match-report)
+
+# News
 
 # News
 
-# News
+## Reynolds refuses to say if British Steel furnaces can keep running
+**Published:** Sunday, April 13, 2025
+
+- The government took control of the steelworks to prevent Chinese owners Jingye from shutting down production.
+- Emergency legislation was rushed through Parliament to maintain operations at British Steel.
+- The government is seeking a buyer to take over British Steel.
+
+**Takeaway:** The government intervened to prevent the closure of blast furnaces at British Steel, crucial for UK steel production. [Read original article](https://www.bbc.com/news/articles/c87p3lep19yo)
 
 ## British Steel to deploy emergency measures to save Scunthorpe furnaces
 **Published:** Sunday, April 13, 2025
 
-- British Steel is taking emergency measures to save blast furnaces at Scunthorpe.
-- The company is seeking help from other businesses to secure materials like iron ore and coking coal.
-- Parliament passed a one-day bill to gain control of the site after the Chinese owner declined government support.
+- British Steel is exploring emergency measures to keep blast furnaces operational in Scunthorpe.
+- Offers of help from businesses are being considered to secure necessary materials.
+- The government has enacted emergency powers to control the site after the Chinese owners declined support.
 
-**Takeaway:** British Steel races against time to secure materials for furnace operation amidst uncertainties about the plant's future.  
-[Read original article](https://www.theguardian.com/business/2025/apr/13/no-guarantee-british-steel-plant-will-be-able-to-continue-says-business-secretary)
+**Takeaway:** British Steel is taking urgent steps to sustain operations amidst challenges in obtaining crucial materials. [Read original article](https://www.theguardian.com/business/2025/apr/13/no-guarantee-british-steel-plant-will-be-able-to-continue-says-business-secretary)
 
 ## Russian missile strike kills dozens in Ukrainian city of Sumy
 **Published:** Sunday, April 13, 2025
 
-- A Russian missile strike in Sumy killed 34 and injured over 100 on Palm Sunday.
-- The strike hit a trolley bus with civilians, including children.
-- Ukrainian President Zelenskyy condemned the attack as deliberate terror needing a strong response.
+- At least 34 people were killed and over 100 injured in a missile strike in Sumy, Ukraine.
+- Ukrainian President Zelenskyy condemned the attack as an act of deliberate terror by Russia on civilians.
+- International condemnation followed the devastating strike.
 
-**Takeaway:** Worst civilian casualties of the year in Ukraine as a Russian missile strike results in tragic deaths and injuries.  
-[Read original article](https://www.theguardian.com/world/2025/apr/13/russian-missile-strike-kills-injured-ukraine-sumy)
+**Takeaway:** A Russian missile strike in Sumy resulted in significant civilian casualties, drawing widespread condemnation. [Read original article](https://www.theguardian.com/world/2025/apr/13/russian-missile-strike-kills-injured-ukraine-sumy)
 
-## Birmingham declares major incident over uncollected rubbish
+## UK could target parts of Chinese state under new foreign influence rules
 **Published:** Sunday, April 13, 2025
 
-- Birmingham faces a major incident due to uncollected rubbish.
-- The British army planners are called in to assist in dealing with the rubbish crisis.
-- The strike by refuse workers has led to a public health warning and escalating piles of waste.
+- The UK government is considering targeting parts of the Chinese state accused of interference under new foreign influence rules.
+- Ministers are evaluating security concerns against the economic advantages of closer ties with Beijing.
+- The enhanced tier of the foreign influence registration scheme may include specific entities within the Chinese political system.
 
-**Takeaway:** Birmingham's uncollected rubbish crisis prompts a major incident declaration and military assistance.  
-[Read original article](https://www.theguardian.com/uk-news/2025/apr/13/army-planners-sent-in-to-help-clear-birminghams-rubbish)
-
-# Additional News
-
-## Government considers targeting parts of China's security apparatus under new foreign influence rules
-**Published:** Sunday, April 13, 2025
-
-- The UK government plans to target specific parts of China's security apparatus under new foreign influence rules.
-- Discussion includes whether to include Chinese state entities in the enhanced tier of the foreign influence registration scheme.
-- Financial services companies express concerns about the potential burden if China is included in the enhanced tier.
-
-**Takeaway:** UK government plans to focus on specific entities within China's security structure under new foreign influence regulations.  
-[Read original article](https://www.theguardian.com)
+**Takeaway:** The UK is weighing security implications against economic benefits in potential actions against Chinese state entities under new foreign influence rules. [Read original article](https://www.theguardian.com/uk-news/2025/apr/13/uk-could-target-parts-of-chinese-state-under-new-foreign-influence-rules)
 
 # AI News
 
 # AI News
 ## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-**Published:** Tuesday, April 13, 2025
+**Published:** Tuesday, April 15, 2025
 
-- Crosswalk buttons in at least three California cities hacked to sound like Elon Musk and Mark Zuckerberg
-- City officials investigating the hacked buttons and disabled voice features at impacted intersections
-- Video recordings show simulated voices playing alongside safety notices on crosswalks
+- Crosswalk buttons in at least three California cities have been hacked to speak in the AI-generated voices of Elon Musk and Mark Zuckerberg.
+- City employees in Palo Alto disabled the crosswalks' voice features after 12 downtown intersections were impacted by the hack.
+- Videos show the hacked buttons with simulated voices making various statements significant to the respective personalities.
 
-**Takeaway:** Crosswalk buttons in California cities have been hacked to play simulated voices resembling Elon Musk and Mark Zuckerberg, prompting investigations by city officials to resolve the issue. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
-
-# Tech News
+**Takeaway:** Crosswalk buttons in California have been hacked to simulate the voices of tech CEOs Elon Musk and Mark Zuckerberg, creating a spectacle for passersby with unconventional messages. These incidents have led to investigations and temporary deactivation of the voice features. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
 
 # Tech News
 
+# Tech News
 ## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-**Published:** Tuesday, April 13, 2025
+**Published:** Monday, April 13, 2025
 
-- Crosswalk buttons in at least three California cities hacked to simulate voices of Elon Musk and Mark Zuckerberg.
-- Palo Alto and Redwood City affected; Menlo Park buttons also reportedly impacted.
-- Videos show AI-generated voices making unconventional comments.
+- Crosswalk buttons in California hacked to simulate voices of Elon Musk and Mark Zuckerberg.
+- Musk's voice begs for friendship while Zuckerberg's brags about undermining democracy.
+- City officials disabled affected crosswalks' voice features pending repairs.
 
-**Takeaway:** Crosswalk buttons in California cities hacked to produce voices simulating Elon Musk and Mark Zuckerberg, creating an unusual situation. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+**Takeaway:** The hacked crosswalk buttons in California are amusingly voicing the personas of tech giants Musk and Zuckerberg but are causing disruptions. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
 
 ## Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'
 **Published:** Friday, April 11, 2025
 
-- Microsoft launches Copilot+ Recall AI tool for screen snapshots.
-- Tool previously criticized as a "privacy nightmare" but enhancements made.
-- Available in preview for Microsoft's AI PCs and laptops.
+- Microsoft introduces an AI tool capturing users' screen snapshots.
+- The tool, Copilot+ Recall, is in preview on AI PCs and laptops.
+- The feature, previously criticized as a privacy concern, has undergone changes.
 
-**Takeaway:** Microsoft introduces a new AI tool for taking screen snapshots, addressing previous concerns about privacy. [Read original article](https://www.bbc.com/news/articles/cj3xjrj7v78o)
-
-## Everyone's jumping on the AI doll trend - but what are the concerns?
-**Published:** Friday, April 11, 2025
-
-- Trend involving AI tools like ChatGPT and Copilot to create dolls of online users.
-- Concerns raised about AI's environmental impact due to energy and data use.
-- Process involves uploading a picture and specific instructions to the AI tool.
-
-**Takeaway:** Popular trend of generating AI dolls raises concerns about energy and data use, urging caution among users. [Read original article](https://www.bbc.com/news/articles/c5yg690e9eno)
+**Takeaway:** Microsoft's AI-driven screenshot tool, despite past privacy concerns, is being relaunched with modifications. [Read original article](https://www.bbc.com/news/articles/cj3xjrj7v78o)
 
 ## OpenAI sues Elon Musk claiming 'bad-faith tactics'
 **Published:** Friday, April 11, 2025
 
-- OpenAI countersues Elon Musk after Musk's lawsuit against OpenAI's CEO, Sam Altman.
-- Legal battle centers on control of leading AI innovations.
-- Allegations of bad-faith tactics and control motives on both sides.
+- OpenAI files a lawsuit against Elon Musk accusing him of impeding its operations.
+- Musk and OpenAI engage in a legal battle over control and business tactics.
+- Federal judge sets a trial date for Musk's suit aiming to prevent OpenAI's structural changes.
 
-**Takeaway:** Legal dispute between OpenAI and Elon Musk escalates, highlighting issues of control and innovation in the AI sector. [Read original article](https://www.bbc.com/news/articles/cg4114271x2o)
+**Takeaway:** OpenAI's legal action against Musk highlights ongoing disputes over AI control and strategic interference. [Read original article](https://www.bbc.com/news/articles/cg4114271x2o)
+
+## Everyone's jumping on the AI doll trend - but what are the concerns?
+**Published:** Friday, April 11, 2025
+
+- Trend of AI-generated miniature images of individuals gains popularity.
+- Concerns raised over energy consumption and data usage of AI tools producing these images.
+- Brands and influencers join the trend, utilizing AI for personalized miniature creations.
+
+**Takeaway:** The AI doll trend raises environmental and data privacy concerns amidst its surge in popularity among social media users. [Read original article](https://www.bbc.com/news/articles/c5yg690e9eno)
 
