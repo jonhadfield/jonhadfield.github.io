@@ -22,5 +22,5 @@ footer: false
 
 # Spurs News
 
-It seems no files have been uploaded yet. Please upload the news articles so I can summarize them based on their themes.
+It seems that no documents have been uploaded yet for me to search. Please upload the relevant documents containing news articles so I can provide a summary based on their content.
 
