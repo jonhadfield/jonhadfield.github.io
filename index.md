@@ -1,5 +1,6 @@
 ---
 layout: page
+show_title: false
 titles:
 en      : &EN       About
 en-GB   : *EN
