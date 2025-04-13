@@ -20,94 +20,110 @@ footer: false
 ---
 
 
-# Tech News
-
-## Article Summaries
-
-### Everyone's jumping on the AI doll trend - but what are the concerns?
-- People create miniature dolls of themselves using AI tools like ChatGPT and Copilot.
-- Concerns raised over AI's energy use and data consumption.
-- Trend has been adopted by brands and influencers online.
-- Critics highlight environmental impact and potential misuse of copyrighted data.
-
-#### Takeaway
-The growing trend of generating personalized miniature dolls using AI tools like ChatGPT and Copilot is raising concerns about energy consumption, data usage, and potential environmental impacts, prompting a debate on responsible AI usage and data privacy【4:0†source】.
-
-### OpenAI sues Elon Musk claiming 'bad-faith tactics'
-- OpenAI accuses Elon Musk of attempting to slow down the company for personal gain.
-- Legal battle between Musk and OpenAI escalates with lawsuits and counterclaims.
-- Musk alleges that OpenAI has deviated from its original non-profit mission.
-- The dispute centers on control, revenue, and the direction of AI technology development.
-
-#### Takeaway
-The conflict between OpenAI and Elon Musk reveals a high-stakes legal battle over control, revenue, and strategic direction in the rapidly evolving field of AI technology, reflecting broader issues of ownership and responsibility in tech innovation【4:1†source】.
-
-### Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'
-- Microsoft introduces Copilot+ Recall, a tool capturing screen snapshots every few seconds.
-- Recall, previously criticized for privacy concerns, is relaunched with improved features.
-- Users must opt in to the feature which allows easy search through past activity.
-- Critics argue that even with opt-in mechanisms, privacy risks and data capture issues persist.
-
-#### Takeaway
-Microsoft's reintroduction of the AI-powered Recall feature illustrates the ongoing challenge of balancing user convenience with privacy concerns in digital tools, reflecting the necessity for transparent data practices and user consent in AI-driven services【4:4†source】.
-
 # Spurs News
 
-## Rayan Aït-Nouri’s early strike leads way as Wolves pile pressure on Ange Postecoglou
+## Leaky Spurs leave Postecoglou facing date with destiny
 
-- Tottenham faced a significant defeat against Wolves, increasing pressure on manager Postecoglou as they struggle to recover from poor performances, potentially finishing as low as 17th in the Premier League.
-- Spurs suffered early setbacks, including conceding within 85 seconds and an own goal by Djed Spence, reflecting a dismal overall display.
-- Wolves' dominance was further highlighted by goals from Jørgen Strand Larsen, Matheus Cunha, and Lucas Bergvall, exposing vulnerabilities in Tottenham's defense and confidence levels.
-- Postecoglou's side made minimal impact offensively, with their only on-target efforts besides Richarlison's header coming from Yves Bissouma.
-- The upcoming Europa League match against Eintracht Frankfurt poses a significant challenge for Spurs, especially with the return of Son Heung-min expected.
+- Tottenham suffered a 4-2 defeat by Wolves, showcasing defensive vulnerabilities under Ange Postecoglou's management.
+- Postecoglou's team has lost 17 Premier League games out of 32, the most in a season for Spurs since 2003-04.
+- The match highlighted defensive errors including an own goal by Djed Spence and poor goalkeeping leading to a dispiriting first half.
+- Spurs' performance further emphasized their struggles in defense and lack of organization, putting Postecoglou's tenure at risk.
+- Despite prioritizing the Europa League, Spurs faced significant defensive shortcomings and an urgent need for improvement.
 
-### Takeaway
-The defeat against Wolves underscores the urgent need for Tottenham to address defensive frailties and regain confidence ahead of crucial fixtures, particularly in the Europa League where Postecoglou’s future at the club hangs in the balance【4:0†source】.
+## Wolves’ Matheus Cunha Fires Spurs Sixth Away Day Misery
 
-## Postecoglou faces date with destiny as Spurs capitulate again
+- Tottenham faced a 4-1 defeat against Wolves, continuing their poor run in away games and highlighting defensive weaknesses.
+- The loss underlines Spurs' potential drop to 17th in the Premier League, with defensive errors leading to goals by Wolves.
+- Postecoglou's team displayed careless and dire defending, with little to no penetration in the attacking side.
+- The defeat raises concerns about Spurs' mental and physical readiness for crucial matches ahead, especially in the Europa League.
+- Individual errors, shaky goalkeeping, and defensive lapses plagued Spurs' performance, indicating a pressing need for improvement in multiple areas.
 
-- Tottenham's defeat to Wolves reveals ongoing vulnerabilities in the team under Postecoglou's management, with defensive leaks and lackluster performances contributing to their struggles.
-- The match showcased familiar shortcomings for Spurs, including individual errors leading to goals and an inability to maintain robust defensive structures.
-- Postecoglou's tenure has been marked by significant challenges, with a higher number of own goals and defeats compared to previous seasons, raising concerns about the team's progress.
-- Despite strategic changes and player rotations aimed at balancing priorities for different competitions, Spurs continue to face significant setbacks and fan discontent.
-- The upcoming Europa League match against Eintracht Frankfurt is pivotal for Postecoglou, representing a crucial opportunity to salvage the season and potentially secure his future at the club.
-
-### Takeaway
-Tottenham's struggles against Wolves signal an urgent need for Postecoglou to address defensive lapses and restore confidence within the team, with the Europa League match presenting a defining moment for both the club's season and the manager's tenure【4:1†source】.
+These articles shed light on Tottenham's defensive vulnerabilities under Ange Postecoglou's management, emphasizing the urgent need for defensive improvement and mental resilience ahead of crucial matches. The repeated defensive errors and lack of organization have put Spurs in a precarious position, highlighting the challenges faced by the team and its manager. As they face critical fixtures, addressing these defensive issues will be paramount for Tottenham's success in upcoming competitions【4:1†source】【4:2†source】.
 
 # News
 
-## Israeli Air Strike Destroys Last Fully Functional Hospital in Gaza City
+## British Steel: Emergency Measures to Keep Furnaces Running
 
-- An Israeli air strike destroyed part of al Ahli Arab Hospital in Gaza City.
-- The strike targeted the hospital under the premise of it housing a "command and control center used by Hamas."
-- No casualties were reported during the strike, but an evacuated child died due to the rushed evacuation process.
-- The bombing caused significant damage to surrounding buildings and led to the forced displacement of patients and hospital staff.
-- The attack on the hospital was condemned by various entities, including the UK Foreign Minister and the Archbishop of York【4:0†source】.
+- The government intervened to prevent Chinese owners from shutting down blast furnaces at British Steel in Scunthorpe.
+- Emergency legislation was passed to maintain control of the plant and secure the necessary raw materials.
+- British Steel is seeking help from multiple businesses to obtain crucial materials like iron ore and coking coal.
+- There is uncertainty about the availability of supplies and concerns about potential shutdowns without the required resources.
+- The government is exploring options to ensure the continuation of steel production in the UK.
 
-## Reynolds Declines to Confirm Continuation of British Steel Furnace Operations
+## Russian Missile Strike in Sumy, Ukraine
 
-- The UK government took control of British Steel to prevent the closure of blast furnaces by the Chinese owner, Jingye.
-- Business Secretary Jonathan Reynolds refrained from confirming the continuous operation of blast furnaces.
-- Emergency legislation was passed to maintain steel production, emphasizing the importance of keeping blast furnaces working to prevent permanent shutdown.
-- The government faced criticism for not intervening sooner to safeguard the plant and jobs.
-- Efforts are underway to secure a buyer for British Steel, with a commitment to avoidance of selling to another Chinese company【4:1†source】.
+- A Russian ballistic missile strike in Sumy resulted in the death of at least 34 people and over 100 injuries.
+- The attack occurred in the city center, targeting civilians during the time when many were on their way to church for Palm Sunday.
+- Ukrainian President Zelenskyy denounced the attack as deliberate terror, calling for a strong reaction from global partners.
+- International outrage followed the strike, with condemnation from various leaders and calls for an end to the conflict.
+- The incident marked one of the deadliest attacks on civilians during the ongoing conflict in Ukraine.
 
-## Sudan's RSF Forces Kill Civilians in Darfur Refugee Camps
+## Sudan's RSF Kills Civilians in Darfur Attacks
 
-- Paramilitaries in Sudan have killed over 200 civilians in attacks on displacement camps and the city of El Fasher.
-- The Rapid Support Forces (RSF) targeted civilians in Um Kadadah, resulting in at least 56 deaths.
-- The conflict has created a significant humanitarian crisis, with tens of thousands dead and millions displaced.
-- The US has accused both the RSF and the army of committing atrocities against civilians.
-- The attacks have intensified the pressure on the UK Foreign Secretary to take decisive action to protect civilians in Sudan and address the crisis【4:4†source】.
+- Paramilitary forces in Sudan, specifically the Rapid Support Forces (RSF), have been responsible for killing over 200 civilians.
+- Attacks in displacement camps and near El Fasher have resulted in significant civilian casualties.
+- The conflict in the Darfur region has created a severe humanitarian crisis, with extensive displacement and casualties.
+- International condemnation of the violence has pressured key stakeholders to address civilian protection issues more decisively.
+- Efforts are being made to convene a conference to address the situation in Sudan and seek solutions to protect vulnerable populations.
 
-## Destitute Asylum Seeker Charged £10,000 for NHS Maternity Care
+## British Steel's Efforts to Save Scunthorpe Furnaces
 
-- An asylum seeker in the UK, billed over £10,000 for maternity care, could only afford to repay a penny a month.
-- The asylum seeker, exempt from NHS charges, was erroneously invoiced by Leeds hospitals despite having an active asylum claim.
-- Fear of charges delayed the asylum seeker's antenatal care, prompting calls for a review of NHS maternity charging for migrants.
-- The hospital cancelled the invoices upon verifying the asylum seeker's eligibility for exemption.
-- Correct implementation of exemption rules is crucial to ensure access to antenatal and postnatal care for vulnerable women【4:3†source】.
+- British Steel is implementing emergency measures to secure the blast furnaces at Scunthorpe and avoid shutdowns.
+- Multiple businesses are offering assistance to procure essential materials like iron ore and coking coal.
+- The government has taken control of the plant to ensure the supply of raw materials and maintain steel production in the UK.
+- Concerns exist regarding the plant's ability to access necessary resources promptly.
+- Nationalization of the plant may be considered if operations can continue effectively within the next two weeks.
 
-The articles highlight critical events, from the destruction of a hospital in Gaza to the challenges faced by British Steel and the humanitarian crisis in Sudan. These stories underscore the impact of conflicts and policies on healthcare, industrial operations, and vulnerable populations, calling for attention to humanitarian needs, national security, and governance practices.
+These summaries provide insights into critical situations involving British Steel, the conflict in Ukraine, and civilian casualties in Sudan, highlighting the challenges and responses to these pressing issues. Each presents a distinct perspective on economic, geopolitical, and humanitarian challenges faced in different regions.
+
+# AI News
+
+## Simulated Musk, Zuckerberg Voices Coming from Hacked Crosswalk Buttons
+
+- Crosswalk buttons in at least three California cities hacked to sound like Elon Musk and Mark Zuckerberg.
+- City officials in Palo Alto, Redwood City, and Menlo Park investigating and disabling the affected crosswalks.
+- The voice features on these buttons are designed to assist visually impaired individuals.
+- Videos online show the voices making humorous and controversial statements, mimicking Musk, Zuckerberg, and even Donald Trump.
+- The simulated voices play in addition to the regular safety notices on the crosswalk buttons.
+
+The hacked crosswalk buttons in California cities have been transformed to mimic the voices of famous tech personalities like Elon Musk and Mark Zuckerberg, creating a blend of amusement and concern. Despite the temporary mischief caused by these altered voices, the regular safety features remain intact, highlighting the need for vigilance against such hacks while adding a humorous twist to the everyday pedestrian experience. For more details, refer to the article from The Verge published on April 13, 2025: [Read more](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california).
+
+# Tech News
+
+## Simulated Musk, Zuckerberg voices on Hacked Crosswalk Buttons
+
+- Crosswalk buttons in California hacked to simulate voices of Elon Musk and Mark Zuckerberg.
+- Videos posted online show Musk’s voice asking to be friends and Zuckerberg bragging about “undermining democracy.”
+- City officials in Palo Alto and Redwood City investigating the hacked crosswalk buttons.
+- The voice features of the buttons are designed to aid visually impaired individuals.
+- Concerns raised over potential interference with safety notices and impact on visually impaired individuals.
+
+**Takeaway:** Hacking crosswalk buttons to simulate the voices of tech leaders like Musk and Zuckerberg raises safety and accessibility concerns, highlighting the potential risks of such technological pranks【4:0†source】.
+
+## Legal Battle Between Musk and OpenAI
+
+- Elon Musk countersues OpenAI over alleged actions to slow down the company.
+- Musk claims OpenAI deviated from its non-profit mission and breached contract.
+- OpenAI accuses Musk of spreading false information and prioritizing personal agenda.
+- Musk's AI company, xAI, competes with OpenAI and recently acquired Musk's social media platform.
+- Musk previously made a bid to acquire OpenAI, which was rejected.
+
+**Takeaway:** The legal dispute between Musk and OpenAI underscores the complexities in the tech industry, where control, revenue, and mission alignment are central points of contention【4:1†source】.
+
+## Microsoft's AI Screenshot Tool "Recall"
+
+- Microsoft introduces AI tool, "Copilot+ Recall," taking periodic screen snapshots.
+- The previous version of the feature was labeled a "privacy nightmare."
+- The tool is available in preview mode for some users with Microsoft AI PCs and laptops.
+
+**Takeaway:** The reintroduction of Microsoft's AI screenshot tool raises concerns about privacy and data security, prompting a revisit of its earlier challenges in this area【4:3†source】.
+
+## Concerns Over AI Doll Trend
+
+- Trend sees people using AI tools to create miniature versions of themselves as dolls.
+- Experts caution about the environmental impact and privacy concerns of AI content generation.
+- Users upload images to AI tools like ChatGPT to generate personalized doll images.
+- Trend embraced by brands and influencers but criticized for its energy consumption and potential data use issues.
+
+**Takeaway:** Although the AI doll trend is popular, concerns over its environmental impact and data usage call for a more conscientious approach to utilizing AI technologies【4:4†source】.
 
