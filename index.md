@@ -22,5 +22,5 @@ footer: false
 
 # Spurs News
 
-I see you're looking to create summaries of news articles grouped by theme. Please go ahead and upload the articles you'd like me to summarize.
+It seems no files have been uploaded yet. Please upload the news articles so I can summarize them based on their themes.
 
