@@ -20,15 +20,15 @@ footer: false
 ---
 
 
+# Spurs News
+
+To proceed with summarizing news articles related to technology, could you please upload the file containing the information?
+
 # News
 
-It seems that no news articles have been uploaded yet. Please upload the news articles you would like me to summarize so that I can proceed with creating the summaries based on the content provided. Thank you!
+I can provide concise and structured summaries of news articles by theme. Please go ahead and upload the articles you'd like me to summarize.
 
 # Tech News
 
-It seems that no relevant documents have been uploaded to provide summaries on US economy growth projections and inflation trends in the USA. If you have specific articles or information related to these topics, please upload them so I can generate the summaries for you.
-
-# Spurs News
-
-It seems that no articles on financial markets have been uploaded. Please upload the relevant articles so I can provide the summaries for you.
+It seems no files have been uploaded yet. Please upload the documents containing the news articles you would like summarized so I can proceed with creating the summaries based on the themes you provide.
 
