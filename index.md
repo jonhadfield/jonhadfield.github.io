@@ -1,7 +1,7 @@
 ---
 layout: page
-title: mynews
-show_title: true
+title: News
+show_title: false
 titles:
 en      : &EN       About
 en-GB   : *EN
@@ -17,9 +17,20 @@ footer: false
 ## Premier League: 10 talking points from the weekend’s action
 **Published:** Monday, April 14, 2025
 
-- Newcastle's impressive collective endeavor against Manchester United led to their victory.
-- None of Newcastle's goals involved crossing the halfway line.
-- More than a fifth of Newcastle's total ball recoveries took place in their attacking third.
+- Newcastle's collective endeavor impressed against Manchester United, leading to their victory.
+- Newcastle's goals were a result of ball recoveries in their attacking third.
+- Wolves defeated Spurs, highlighting the latter's defensive vulnerabilities.
 
-**Takeaway:** Newcastle's effective strategy in ball recovery and attacking led to a significant win over Manchester United. [Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
+**Takeaway:** Spurs struggle defensively, impacting their performance in the league. 
+[Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
+
+## Wolves 4-2 Tottenham
+**Published:** Monday, April 14, 2025
+
+- Wolves showcased strong performance with key players like Munetsi and Larsen excelling.
+- Spurs' defensive errors contributed significantly to their defeat by Wolves.
+- Postecoglou faces pressure due to Spurs' poor defensive record.
+
+**Takeaway:** Spurs' defensive weaknesses continue to haunt them, impacting results and increasing pressure on the manager.
+[Read original article](https://www.theguardian.com/football/2025/apr/13/wolves-tottenham-premier-league-match-report)
 
