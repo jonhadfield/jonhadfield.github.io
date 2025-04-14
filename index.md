@@ -14,23 +14,24 @@ footer: false
 
 
 # Spurs News
-## Premier League: 10 talking points from the weekend’s action
+
+## Leaky Spurs leave Postecoglou facing date with destiny
+**Published:** Sunday, April 13, 2025
+
+- Tottenham Hotspur's vulnerability in defense has led to 17 Premier League losses out of 32 games this season.
+- Postecoglou's team has struggled with own goals, conceding six of them, only surpassed by West Ham and Sheffield United.
+- The article highlights the pressure on Postecoglou as Tottenham faces challenges in the Europa League.
+
+**Takeaway:** Tottenham Hotspur's defensive weaknesses put Postecoglou's job at risk as the team faces critical matches. 
+[Read original article](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
+
+## Premier League 10 Talking Points from the Weekend's Action
 **Published:** Monday, April 14, 2025
 
-- Newcastle's collective endeavor impressed against Manchester United, leading to their victory.
-- Newcastle's goals were a result of ball recoveries in their attacking third.
-- Wolves defeated Spurs, highlighting the latter's defensive vulnerabilities.
+- Newcastle's strong collective effort led to a 4-1 victory over Manchester United with effective ball recoveries and attacking plays.
+- Aston Villa's attacking depth has created uncertainty over penalty takers, showcasing new strengths within the team.
+- Graham Potter, West Ham's manager, is under pressure with only three wins in 13 games and a relegation threat looming.
 
-**Takeaway:** Spurs struggle defensively, impacting their performance in the league. 
+**Takeaway:** Key matches showcase teams' strengths and weaknesses, with implications for managers like Potter at West Ham.
 [Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
-
-## Wolves 4-2 Tottenham
-**Published:** Monday, April 14, 2025
-
-- Wolves showcased strong performance with key players like Munetsi and Larsen excelling.
-- Spurs' defensive errors contributed significantly to their defeat by Wolves.
-- Postecoglou faces pressure due to Spurs' poor defensive record.
-
-**Takeaway:** Spurs' defensive weaknesses continue to haunt them, impacting results and increasing pressure on the manager.
-[Read original article](https://www.theguardian.com/football/2025/apr/13/wolves-tottenham-premier-league-match-report)
 
