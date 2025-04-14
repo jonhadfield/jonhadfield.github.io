@@ -21,78 +21,27 @@ footer: false
 ---
 
 
-# AI News
-
-# AI News
-## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-**Published:** Tuesday, April 8, 2025
-
-- Crosswalk buttons in at least three California cities have been hacked to sound like the AI-generated voices of Elon Musk and Mark Zuckerberg.
-- The hacked voices include Musk begging for friendship and Zuckerberg mentioning activities like "undermining democracy."
-- Cities like Palo Alto, Redwood City, and Menlo Park are affected by the hacked crosswalk buttons.
-
-**Takeaway:** Hackers have manipulated crosswalk buttons in California cities to play AI-generated voices imitating Elon Musk and Mark Zuckerberg, causing disruptions in the usual guidance provided by these buttons. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
-
-# Tech News
-
-# Tech News
-## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
-**Published:** Tuesday, April 13, 2025
-
-- Crosswalk buttons in California hacked to sound like Elon Musk and Mark Zuckerberg.
-- City officials in Palo Alto and Redwood City addressing the issue.
-- Concerns raised about the potential impact on visually impaired individuals.
-
-**Takeaway:** Crosswalk buttons in California cities have been hacked to simulate the voices of Elon Musk and Mark Zuckerberg, leading to safety concerns and city investigations. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
-
-## Landmark antitrust trial could force Zuckerberg to sell Instagram
-**Published:** Sunday, April 13, 2025
-
-- Antitrust trial against Meta alleging monopoly through Instagram and WhatsApp acquisitions.
-- FTC scrutinizing Meta's acquisitions and potential forced divestiture.
-- Legal battle likely to focus on competitive impacts and acquisition intent.
-
-**Takeaway:** Meta faces an antitrust trial over Instagram and WhatsApp acquisitions, with potential repercussions on its ownership. [Read original article](https://www.bbc.com/news/articles/cedy2ygy50do)
-
-## Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'
-**Published:** Friday, April 11, 2025
-
-- Microsoft launching an AI-powered screen snapshot tool.
-- Tool raises privacy concerns due to its continuous screenshot feature.
-- AI tool aims to enhance user experience but faces criticisms over privacy implications.
-
-**Takeaway:** Microsoft introduces a controversial AI screenshot tool, balancing user experience improvements with privacy apprehensions. [Read original article](https://www.bbc.com/news/articles/cj3xjrj7v78o)
-
-## Everyone's jumping on the AI doll trend - but what are the concerns?
-**Published:** Friday, April 11, 2025
-
-- Rise of AI tools like ChatGPT and Copilot for creating personalized dolls.
-- Expert warnings about energy consumption and privacy implications of AI-generated content.
-- Users urged to consider environmental impact and data privacy in using AI tools for personalization.
-
-**Takeaway:** The trend of AI-generated dolls raises environmental and privacy concerns, urging caution in their creation and use. [Read original article](https://www.bbc.com/news/articles/c5yg690e9eno)
-
 # Spurs News
 
 # Spurs News
 ## Leaky Spurs leave Postecoglou facing date with destiny
 **Published:** Sunday, April 13, 2025
 
-- Tottenham Hotspur's defensive weaknesses have led to their poor league performance.
-- Spurs have lost 17 Premier League games out of 32 under Postecoglou's management.
-- Postecoglou's focus is on the Europa League quarter-final after a disappointing defeat.
+- Tottenham Hotspur's issues lie in leaks in midfield and defense, leading to their poor performance and low league position.
+- Spurs have faced significant defeats and own goals under Postecoglou's management.
+- Postecoglou's focus is now on the Europa League quarter-final second leg match against Eintracht Frankfurt.
 
-**Takeaway:** Tottenham Hotspur's defensive struggles under Postecoglou continue to undermine their performance, with a key focus now on the Europa League quarter-final match against Eintracht Frankfurt. 
+**Takeaway:** Spurs' ongoing defensive issues and defeats place Postecoglou's future in question. 
 [Read original article](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
 
 ## Premier League 10 talking points from the weekend's action
 **Published:** Monday, April 14, 2025
 
-- Newcastle's strong team effort secured a victory against Manchester United.
-- Harry Amass's emergence in challenging circumstances highlights promise for United.
-- Graham Potter faces pressure at West Ham with a record of three wins in 13 games.
+- Newcastle's strong team effort led to a notable win against Manchester United.
+- Graham Potter faces pressure at West Ham after a series of poor results.
+- Aston Villa's penalty-taking dilemma reflects their increased attacking options.
 
-**Takeaway:** The weekend's Premier League matches showcased notable performances, including Newcastle's teamwork against Manchester United and Graham Potter's challenging situation at West Ham.
+**Takeaway:** Key highlights from the weekend's Premier League matches, including standout performances and managerial challenges.
 [Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
 
 # News
@@ -102,48 +51,91 @@ footer: false
 ## Rory McIlroy relieved to finally lift decade-long ‘burden’ with dramatic Masters win
 **Published:** Monday, April 14, 2025
 
-- Rory McIlroy completed his career grand slam by winning the Masters in a playoff against Justin Rose.
-- McIlroy had not won a major since the 2014 US PGA Championship.
-- This victory marks his sixth major win and a significant career milestone.
+- Rory McIlroy won the Masters, completing his career grand slam after a decade-long wait.
+- McIlroy needed the Masters to finish his majors set, which he hadn't added to since 2014.
+- This victory makes McIlroy the sixth player in history to achieve the career grand slam.
 
-**Takeaway:** Rory McIlroy's Masters win lifts a burden he had carried for over a decade, completing his career grand slam. [Read original article](https://www.theguardian.com/sport/2025/apr/14/masters-rory-mcilroy-reaction-win-lifts-burden)
-
-## Aimee Lou Wood criticizes SNL sketch as ‘mean and unfunny’
-**Published:** Monday, April 14, 2025
-
-- Aimee Lou Wood found a sketch on Saturday Night Live mocking her appearance as offensive and lacking humor.
-- The skit was part of a parody of The White Lotus where Wood's character was impersonated with exaggerated prosthetic teeth.
-- SNL later apologized for the sketch following Wood's criticism.
-
-**Takeaway:** Aimee Lou Wood critiques SNL for a sketch she finds mean and unfunny, prompting an apology from the show. [Read original article](https://www.theguardian.com/culture/2025/apr/14/white-lotus-star-aimee-lou-wood-snl-mean-unfunny-sketch-skit)
+**Takeaway:** Rory McIlroy expressed relief after winning the Masters and lifting the burden he carried for over a decade. [Read original article](https://www.theguardian.com/sport/2025/apr/14/masters-rory-mcilroy-reaction-win-lifts-burden)
 
 ## UK MP refused entry to Hong Kong accuses China of ‘hidden blacklist’
 **Published:** Monday, April 14, 2025
 
-- Wera Hobhouse, a UK MP, alleges being on a secret list of China's critics impacted her ability to enter Hong Kong.
-- Hobhouse believes her listing on the supposed blacklist made her a target for exclusion from Hong Kong.
-- The situation raises concerns about hidden agendas impacting individuals' freedom of movement and expression.
+- Wera Hobhouse, a UK MP, was refused entry to Hong Kong, alleging her presence on a secret blacklist of critics of China's human rights record.
+- This incident made Hobhouse a target due to her apparent inclusion on the list.
 
-**Takeaway:** UK MP highlights concerns over a perceived secret blacklist affecting critics of China's human rights record. [Read original article](https://www.theguardian)
+**Takeaway:** A UK MP accuses China of maintaining a hidden blacklist after being refused entry to Hong Kong. [Read original article](https://www.bbc.com/news/articles/c0r5vlwj4dqo)
 
-## Ukraine's President Zelensky invites Donald Trump to visit ahead of Russia deal
+## Ukraine's President Zelensky Invites Donald Trump amid Russia Deal Negotiations
 **Published:** Monday, April 14, 2025
 
-- President Zelensky of Ukraine has extended an invitation to former President Donald Trump to visit Ukraine.
-- The invitation aims to provide Trump with a firsthand view of the war's impact on Ukraine before negotiating with Russia.
-- Trump expressed shock over a recent Russian missile attack in Sumy, labeling it as terrible and a mistake.
+- President Volodymyr Zelensky invited Donald Trump to visit Ukraine before finalizing any deal with Russia to end the war.
+- Zelensky urged Trump to witness the impacts of the conflict on civilians, hospitals, and destroyed infrastructure before negotiations.
 
-**Takeaway:** Zelensky urges Trump to visit Ukraine to witness the war's devastation before potential negotiations with Russia. [Read original article](https://www.bbc.com/news/articles/c0r5vlwj4dqo)
+**Takeaway:** President Zelensky extends an invitation to Donald Trump to visit Ukraine amidst ongoing war negotiations with Russia. [Read original article](https://www.bbc.com/news/articles/c0r5vlwj4dqo)
 
-## Investigation ongoing after house explosion kills one in Worksop
+## £1.5m Fund Launched to Encourage Windrush Scandal Victims to Seek Compensation
 **Published:** Monday, April 14, 2025
 
-- A house explosion in Worksop resulted in one fatality and multiple evacuations.
-- Emergency services are investigating the cause of the explosion that destroyed one house and damaged several others.
-- Displaced families seek answers regarding the explosion, with properties damaged and residents awaiting clearance to return.
+- A £1.5m fund has been initiated to incentivize victims of the Windrush scandal to come forward and claim compensation.
+- The fund aims to address victims' reluctance to engage with the Home Office following the scandal.
 
-**Takeaway:** Worksop residents face uncertainty and disruption following a fatal house explosion that triggered evacuations. [Read original article](https://www.theguardian.com)
+**Takeaway:** The UK government introduces a fund to support Windrush scandal victims in seeking compensation. [Read original article](https://www.theguardian.com/uk-news/2025/apr/14/ministers-try-encourage-windrush-compensation-claims-fund)
 
+## Parliamentary Report Finds Police Response to 2024 Summer Riots as 'Entirely Appropriate'
+**Published:** Monday, April 14, 2025
 
+- A parliamentary report concluded that the police response to the 2024 summer riots was deemed "entirely appropriate."
+- MPs dismissed accusations of "two-tier policing," considering such claims baseless and unjustified.
 
+**Takeaway:** A parliamentary report validates the police response to the 2024 summer riots, deeming it suitable and dismissing claims of unequal treatment. [Read original article](https://www.theguardian.com/uk-news/2025/apr/14/claims-of-two-tier-policing-during-2024-summer-riots-baseless-report-finds)
+
+# AI News
+
+# AI News
+## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
+**Published:** Tuesday, April 13, 2025
+
+- Crosswalk buttons in at least three California cities were hacked over the weekend to sound like Tesla CEO Elon Musk and Meta CEO Mark Zuckerberg.
+- City officials in Palo Alto, Redwood City, and Menlo Park are dealing with the hack, which involves the simulated voices making unusual statements.
+- Videos online show the hacked crosswalk buttons playing the voices of Musk and Zuckerberg, with humorous and bizarre phrases being spoken.
+
+**Takeaway:** Hackers have altered crosswalk buttons to mimic the voices of tech personalities Elon Musk and Mark Zuckerberg, causing confusion and amusement in California cities. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+
+# Tech News
+
+# Tech News
+## Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons
+**Published:** Monday, April 13, 2025
+
+- Crosswalk buttons in California hacked to mimic voices of Elon Musk and Mark Zuckerberg
+- Palo Alto and Redwood City impacted; videos show Musk's voice joking about cancer and loneliness
+- Voice features important for visually impaired affected
+
+**Takeaway:** Crosswalk buttons in California hacked to imitate voices of tech CEOs, causing disruptions in pedestrian guidance. [Read original article](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
+
+## Landmark antitrust trial could force Zuckerberg to sell Instagram
+**Published:** Sunday, April 13, 2025
+
+- FTC alleges Meta's acquisitions of Instagram and WhatsApp aimed to eliminate competition
+- Trial could lead to Zuckerberg selling off Instagram and WhatsApp
+- Meta likely to argue that consumer benefits resulted from the acquisitions
+
+**Takeaway:** FTC's antitrust case against Meta centers on alleged anti-competitive acquisitions, possibly affecting Meta's ownership of Instagram and WhatsApp. [Read original article](https://www.bbc.com/news/articles/cedy2ygy50do)
+
+## PS5 price jumps £40 as Sony cites 'challenging' market conditions
+**Published:** Monday, April 14, 2025
+
+- Sony increases PS5 prices globally due to market challenges
+- Digital edition price in UK up by £40 to £429.99
+- Price changes attributed to inflation and exchange rates
+
+**Takeaway:** Sony raises PS5 prices globally citing market challenges, with the UK digital edition now at £429.99. [Read original article](https://www.bbc.com/news/articles/ce82391x2kyo)
+
+## Everyone's jumping on the AI doll trend - but what are the concerns?
+**Published:** Friday, April 11, 2025
+
+- Trend of creating AI-generated miniature dolls of individuals using tools like ChatGPT and Copilot
+- Experts caution over energy and data implications of the AI doll trend
+
+**Takeaway:** Emergence of AI-generated miniature dolls raises concerns over energy consumption and data privacy implications. [Read original article](https://www.bbc.com/news/articles/c5yg690e9eno)
 
