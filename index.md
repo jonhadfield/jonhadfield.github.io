@@ -14,63 +14,52 @@ footer: false
 
 
 # Spurs News
-## Leaky Spurs leave Postecoglou facing date with destiny
-**Published:** Sunday, April 13, 2025
-
-- Tottenham Hotspur's vulnerability in defense has put Ange Postecoglou's job at risk.
-- Spurs have suffered 17 Premier League defeats out of 32 games this season, the most since 2003-04.
-- Postecoglou faces pressure with an upcoming Europa League quarter-final match against Eintracht Frankfurt.
-
-**Takeaway:** Tottenham's defensive flaws continue to undermine their progress under Postecoglou.
-[Read original article](https://www.bbc.com/sport/football/articles/c0jz42d8442o)
-
-## Premier League: 10 Talking Points from the Weekend's Action
+## Premier League: 10 talking points from the weekend’s action
 **Published:** Monday, April 14, 2025
 
-- Newcastle displayed impressive teamwork against Manchester United, leading to a comfortable win without goals crossing the halfway line.
-- Harry Amass's emergence for Manchester United faces challenges in a struggling team.
-- Graham Potter, West Ham's manager, faces scrutiny with a low win rate and potential pressure despite external factors.
+- Newcastle displayed impressive collective endeavor against Manchester United, focusing on pressing to disrupt the opponents.
+- Newcastle's game-winning strategies involved minimal time in possession, with quick build-ups leading to goals.
+- Post-match reflections highlight notable markers in young player Harry Amass's emergence in Manchester United.
 
-**Takeaway:** Key observations from recent Premier League matches highlight tactical nuances and managerial challenges faced by teams like Manchester United and West Ham.
-[Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
+**Takeaway:** The article discusses standout performances in the Premier League with a focus on Newcastle's effective tactics against Manchester United. [Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
+
+## Tottenham's Performance
+**Published:** Monday, April 14, 2025
+
+- Spurs face challenges in defense, exemplified by own goals and defensive lapses leading to defeats.
+- Manager Ange Postecoglou defends individual errors by players, emphasizing the need for improved consistency.
+- Spurs' disappointing season features a high number of own goals and defeats, raising questions about defensive weaknesses.
+
+**Takeaway:** The article highlights Tottenham's defensive struggles and the pressure on manager Postecoglou to address deficiencies for a turnaround. [Read original article](https://www.theguardian.com/football/2025/apr/14/premier-league-10-talking-points-from-the-weekends-action)
 
 # News
 
 ## Former Tory MP among 15 charged over bets on timing of 2024 UK election
 **Published:** Monday, April 14, 2025
 
-- Charges include alleged cheating on bets related to the 2024 UK general election.
-- Craig Williams, a former Conservative MP, and several senior Tories were charged by the Gambling Commission.
-- The individuals charged used advance knowledge of the proposed election date for betting markets.
+- Craig Williams and several other senior Tories charged by the Gambling Commission for alleged cheating related to bets on the 2024 UK general election.
+- Investigation focused on individuals suspected of using advance knowledge of the proposed election date to gain an unfair advantage in betting markets.
+- Those charged are due to appear in court on June 13, 2025.
 
-**Takeaway:** The investigation reveals alleged cheating on betting markets related to the timing of the 2024 UK general election. [Read original article](https://www.theguardian.com/uk-news/2025/apr/14/gambling-commission-charges-15-over-bets-into-timing-of-2024-general-election)
+**Takeaway:** Allegations of cheating in betting markets related to the 2024 UK election lead to charges against senior Tories, including a former MP. [Read original article](https://www.theguardian.com/uk-news/2025/apr/14/gambling-commission-charges-15-over-bets-into-timing-of-2024-general-election)
 
-## Ex-MP Craig Williams among 15 charged with betting offences
+## Birmingham bin strike to continue as workers 'overwhelmingly' reject deal
 **Published:** Monday, April 14, 2025
 
-- Former Conservative MP Craig Williams is among those charged with betting offences by the Gambling Commission.
-- The charges stem from bets placed on the timing of the 2024 general election.
-- The investigation was launched last year due to suspected betting irregularities.
+- Bin workers in Birmingham reject the city council's pay offer and the strike continues.
+- Dispute centered around the council's decision to remove Waste Recycling and Collection Officer roles.
+- The rejected offer did not address potential pay cuts for drivers and affected workers faced loss up to £8,000 annually.
 
-**Takeaway:** Fifteen individuals, including former MP Craig Williams, face charges for betting offences related to the timing of the 2024 general election. [Read original article](https://www.bbc.com/news/articles/c230pvpdek9o)
+**Takeaway:** The rejection of the council's offer leads to the continuation of the month-long strike by bin workers in Birmingham. [Read original article](https://www.bbc.com/news/articles/cd9ljx8qdqdo)
 
-## Army experts called in over Birmingham bin strike
-**Published:** Monday, April 14, 2025
-
-- Military planners are assisting Birmingham in dealing with uncollected rubbish following a month-long strike by refuse workers.
-- The city council declared a major incident and sought support from neighboring authorities and the Army.
-- Office-based military personnel provide logistical support without deployment for rubbish collection.
-
-**Takeaway:** The Army is providing logistical support to address the public health risk posed by the ongoing Birmingham bin strike. [Read original article](https://www.bbc.com/news/articles/cgkg34j0d76o)
 
 # Tech News
-
 ## PS5 price jumps £40 as Sony cites 'challenging' market conditions
 **Published:** Monday, April 14, 2025
 
-- Sony has increased the price of its PlayStation 5 consoles globally due to challenging market conditions.
-- The digital edition of the PS5 in the UK now costs £429.99 (£40 increase) and €499.99 in Europe.
-- Sony attributes the price increase to high inflation and fluctuating exchange rates.
+- Sony raised the price of its PlayStation 5 consoles globally, with the digital edition now priced at £429.99 in the UK and €499.99 in Europe.
+- The company attributed the price increase to high inflation and fluctuating exchange rates, affecting markets worldwide.
+- Sony's price adjustment aims to align the digital edition closer to the standard version to balance sales.
 
-**Takeaway:** Sony has raised PS5 prices in response to market challenges, with the digital edition now more aligned with the standard version. [Read original article](https://www.bbc.com/news/articles/ce82391x2kyo)
+**Takeaway:** Sony increases PS5 prices due to market challenges, including inflation and exchange rate fluctuations. [Read original article](https://www.bbc.com/news/articles/ce82391x2kyo)
 
