@@ -14,59 +14,63 @@ footer: false
 
 
 # Spurs News
+
 ## Who are Man Utd, Tottenham and Chelsea's semi-final opponents?
 **Published:** Friday, April 18, 2025
 
-- Manchester United, Tottenham, and Chelsea secured spots in the semi-finals for potential European glory.
-- Tottenham faced Eintracht Frankfurt and secured a 1-0 victory to advance 2-1 on aggregate.
-- Chelsea reached the semi-finals despite a 2-1 loss to Legia Warsaw, having won the first leg 3-0.
+- Manchester United, Tottenham, and Chelsea secured semi-final spots in European competitions.
+- Important match-ups for the semi-finals include Manchester United vs. Athletic Bilbao, Tottenham vs. Bodo/Glimt, and Chelsea vs. Djurgarden.
+- Bodo/Glimt, known for their challenging conditions and giant yellow toothbrush-waving fans, are a formidable opponent in European competitions.
 
-**Takeaway:** Manchester United, Tottenham, and Chelsea are poised for significant European encounters in the semi-finals. [Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
+**Takeaway:** Manchester United, Tottenham, and Chelsea are gearing up for intense semi-final clashes in European competitions.  
+[Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
 
-## Never mind the late drama, Amorim and Postecoglou still face the Ten Hag trap | Jonathan Wilson
-**Published:** Saturday, April 19, 2025
+## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
+**Published:** Monday, April 21, 2025
 
-- Manchester United's decision to retain Erik ten Hag post-F.A. Cup win backfired with his subsequent sacking costing the club £200m.
-- The Ten Hag trap, characterized by repeating past mistakes in managerial decisions, looms over clubs like Spurs and Manchester United.
-- Tottenham's quest for success is complicated by a history of managerial instability and a focus on Champions League qualification.
+- Nottingham Forest defeated Tottenham Hotspur, guided by former Spurs manager Nuno Espírito Santo.
+- Nuno led Forest to victory with a strategic approach focused on quick goals and solid defense.
+- Forest's win over Tottenham revitalizes their Champions League aspirations.
 
-**Takeaway:** The looming shadow of the Ten Hag trap highlights the complexities and challenges faced by clubs like Tottenham and Manchester United in their managerial decisions. [Read original article](https://www.theguardian.com/football/2025/apr/19/ange-postecoglou-ruben-amorim-still-face-erik-ten-hag-trap-spurs-manchester-united)
+**Takeaway:** Nottingham Forest's win over Tottenham under Nuno's management injects new life into their pursuit of a top-five finish.  
+[Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
 
 # News
 
-## NHS cancer patients denied life-saving drugs due to Brexit costs, report finds
-**Published:** Sunday, April 20, 2025
+## Who will be the next pope? Some potential candidates to succeed Francis
+**Published:** Monday, April 21, 2025
 
-- Brexit's red tape and extra costs are hindering UK cancer patients from accessing life-saving drugs and participating in clinical trials.
-- Importing new cancer drugs for Britons has become significantly more expensive post-Brexit, impacting research and patient care.
-- Children among NHS cancer patients are experiencing treatment disruptions, with some denied drugs that could prolong or save their lives.
+- Predicting the outcome of the papal conclave is challenging as cardinals' positions shift over successive votes.
+- Potential candidates include Parolin, Tagle, Turkson, Erdő, Zuppi, Tolentino, and Grech.
 
-**Takeaway:** Brexit-related challenges are impeding UK cancer research and patient access to crucial treatments. [Read original article](https://www.theguardian.com/science/2025/apr/20/nhs-cancer-patients-denied-life-saving-drugs-due-to-brexit-costs-report-finds)
+**Takeaway:** Speculation abounds on who will succeed Pope Francis as the next pope, with various candidates from different backgrounds considered.  
+[Read original article](https://www.theguardian.com/world/2025/apr/21/who-next-pope-francis-potential-candidates-succeed)
 
-## 'Operational misunderstanding' led to killing of Gaza medics, IDF inquiry says
-**Published:** Sunday, April 20, 2025
+## Three men charged over golf course crash death
+**Published:** Monday, April 21, 2025
 
-- An IDF inquiry found operational mistakes and breaches of orders resulted in the killing of 15 emergency workers in Gaza, refuting claims of summary executions.
-- Poor night visibility and a perceived threat led to the fatal shooting of emergency workers by the Israeli military.
-- Israel's initial justifications were overturned by evidence showing vehicles with lights on and emergency signals flashing.
+- Suzanne Cherry, 62, died after being struck by a van involved in a police pursuit.
+- Three men have been charged with manslaughter in connection with the incident.
 
-**Takeaway:** Gaza medics' killings were attributed to operational errors by the Israeli military, prompting calls for independent investigations. [Read original article](https://www.bbc.com/news/articles/c24q6201d8yo)
+**Takeaway:** Three men face charges related to a fatal crash on a golf course following a police pursuit.  
+[Read original article](https://www.bbc.com/news/articles/cx270yz150zo)
 
-## Husband 'watched in horror' as wife killed on golf course
-**Published:** Unavailable
+## Who is Cardinal Kevin Farrell, the acting head of the Vatican?
+**Published:** Monday, April 21, 2025
 
-- Following a police pursuit, Suzanne Cherry, 62, was fatally struck by a van while on a golf course, leading to multiple arrests including for murder and manslaughter.
-- The incident left a profound impact on Suzanne's family and community, with arrests made in connection to the tragic event.
+- Cardinal Kevin Farrell, an Irish-American, is overseeing the Vatican until a new pope is elected.
+- He plays a pivotal role during the period between the death of a pope and the election of the next pontiff.
 
-**Takeaway:** A fatal incident on a golf course involving a police pursuit culminated in multiple arrests and a devastating loss for Suzanne Cherry's loved ones. [Read original article](Unavailable)
+**Takeaway:** Cardinal Kevin Farrell, little known in broader circles, steps into a significant role following Pope Francis' passing.  
+[Read original article](https://www.bbc.com/news/articles/cly1md6r3l8o)
 
 # Tech News
-## I won't put my relationships online again, says Lilly Sabri
-**Published:** Saturday, April 19, 2025
+## US sets tariffs of up to 3,521% on South East Asia solar panels
+**Published:** Tuesday, April 22, 2025
 
-- Lilly Sabri, a popular fitness influencer with six million YouTube followers, decided to take a break from Instagram after rumors of her fiancé cheating surfaced.
-- Following the gossip podcast that initiated the rumors, Lilly experienced a tumultuous period in her personal and professional life, eventually leading to her business partner and ex-partner being the same person.
-- Despite the challenges faced, Lilly managed to keep her businesses afloat, albeit having to engage with social media platforms constantly.
+- The US Commerce Department plans to impose tariffs of up to 3,521% on imports of solar panels from four South East Asian countries.
+- The proposed levies target companies in Cambodia, Thailand, Malaysia, and Vietnam in response to allegations of subsidies from China and dumping of cheap products in the US market.
+- Some solar equipment exporters in Cambodia face the highest duties of 3,521% due to a lack of cooperation with the investigation.
 
-**Takeaway:** Lilly Sabri reflects on the challenges she faced after a podcast implicated her partner, leading her to make the decision not to share her personal relationships online again. [Read original article](https://www.bbc.com/news/articles/c4g22mvmkmeo)
+**Takeaway:** The tariffs imposed by the US on South East Asia solar panels aim to address alleged unfair practices, potentially impacting costs for businesses and consumers while benefiting US manufacturers. [Read original article](https://www.bbc.com/news/articles/c5ygdv47vlzo)
 
