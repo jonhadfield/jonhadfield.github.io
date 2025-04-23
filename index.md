@@ -14,63 +14,62 @@ footer: false
 
 
 # Spurs News
+## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
+**Published:** Monday, April 21, 2025
+
+- Nottingham Forest secured a victory against Tottenham, with Nuno Espírito Santo leading his team to success.
+- Nuno's strategic approach involved scoring two quick goals and solidifying defense tactics.
+- Forest's win over Tottenham marked one of the more predictable results of the season.
+
+**Takeaway:** Nuno's impact on Forest's performance and strategic gameplay yielded victory over his former club, Tottenham Hotspur. [Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
 
 ## Who are Man Utd, Tottenham and Chelsea's semi-final opponents?
 **Published:** Friday, April 18, 2025
 
-- Manchester United, Tottenham, and Chelsea secured semi-final spots in European competitions.
-- Important match-ups for the semi-finals include Manchester United vs. Athletic Bilbao, Tottenham vs. Bodo/Glimt, and Chelsea vs. Djurgarden.
-- Bodo/Glimt, known for their challenging conditions and giant yellow toothbrush-waving fans, are a formidable opponent in European competitions.
+- Tottenham is set to face Norwegian side Bodo/Glimt in the Europa League semi-finals.
+- Manchester United will compete against Spanish side Athletic Bilbao.
+- Chelsea's semi-final opponent is Swedish side Djurgarden in the Conference League.
 
-**Takeaway:** Manchester United, Tottenham, and Chelsea are gearing up for intense semi-final clashes in European competitions.  
-[Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
-
-## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
-**Published:** Monday, April 21, 2025
-
-- Nottingham Forest defeated Tottenham Hotspur, guided by former Spurs manager Nuno Espírito Santo.
-- Nuno led Forest to victory with a strategic approach focused on quick goals and solid defense.
-- Forest's win over Tottenham revitalizes their Champions League aspirations.
-
-**Takeaway:** Nottingham Forest's win over Tottenham under Nuno's management injects new life into their pursuit of a top-five finish.  
-[Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
+**Takeaway:** Tottenham, Manchester United, and Chelsea are gearing up to face challenging opponents in the upcoming semi-final matches in European competitions. [Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
 
 # News
 
-## Who will be the next pope? Some potential candidates to succeed Francis
-**Published:** Monday, April 21, 2025
+## Paddleboard guide jailed for 10 years over deaths of four people in Wales
+**Published:** Wednesday, April 23, 2025
 
-- Predicting the outcome of the papal conclave is challenging as cardinals' positions shift over successive votes.
-- Potential candidates include Parolin, Tagle, Turkson, Erdő, Zuppi, Tolentino, and Grech.
+- Nerys Lloyd, a former police officer, was sentenced to 10 years and six months for the gross negligence manslaughter of four individuals during a paddleboarding expedition in Wales.
+- The group faced dangerous conditions due to a rain-swollen river, with participants lacking appropriate safety gear.
+- Lloyd failed to assess risks adequately, leading to a tragic outcome.
 
-**Takeaway:** Speculation abounds on who will succeed Pope Francis as the next pope, with various candidates from different backgrounds considered.  
-[Read original article](https://www.theguardian.com/world/2025/apr/21/who-next-pope-francis-potential-candidates-succeed)
+**Takeaway:** The sentencing highlights the consequences of negligence in outdoor activities.  
+[Read original article](https://www.theguardian.com/uk-news/2025/apr/23/paddleboard-instructor-nerys-lloyd-jailed-deaths-river-cleddau-wales)
 
-## Three men charged over golf course crash death
-**Published:** Monday, April 21, 2025
+## JD Vance: US will walk away unless Ukraine and Russia agree to proposals
+**Published:** Wednesday, April 23, 2025
 
-- Suzanne Cherry, 62, died after being struck by a van involved in a police pursuit.
-- Three men have been charged with manslaughter in connection with the incident.
+- US Vice-President JD Vance emphasized that the US will withdraw from negotiations between Ukraine and Russia unless a deal is reached.
+- Talks in London aimed at securing a ceasefire saw changes after key US officials withdrew.
+- The US issued a clear proposal to both parties, urging a definitive response to continue diplomatic efforts.
 
-**Takeaway:** Three men face charges related to a fatal crash on a golf course following a police pursuit.  
-[Read original article](https://www.bbc.com/news/articles/cx270yz150zo)
+**Takeaway:** Tensions are high as negotiation dynamics shift in the effort to end the conflict between Ukraine and Russia.  
+[Read original article](https://www.bbc.com/news/articles/c78jx68d922o)
 
-## Who is Cardinal Kevin Farrell, the acting head of the Vatican?
-**Published:** Monday, April 21, 2025
+## Police failings left predator free to kidnap girl
+**Published:** Wednesday, April 23, 2025
 
-- Cardinal Kevin Farrell, an Irish-American, is overseeing the Vatican until a new pope is elected.
-- He plays a pivotal role during the period between the death of a pope and the election of the next pontiff.
+- Failures in policing and workload pressures enabled Lewis Jones, a sexual predator, to abduct a six-year-old girl in Manchester after being under investigation for other attacks.
+- An internal police review revealed errors and lack of oversight in handling Jones' previous case, leaving him free to commit a violent assault.
 
-**Takeaway:** Cardinal Kevin Farrell, little known in broader circles, steps into a significant role following Pope Francis' passing.  
-[Read original article](https://www.bbc.com/news/articles/cly1md6r3l8o)
+**Takeaway:** Systemic failures in law enforcement allowed a dangerous individual to victimize a child, raising concerns about public safety measures.  
+[Read original article](https://www.bbc.com/news/articles/c4g7r155j95o)  
 
 # Tech News
-## US sets tariffs of up to 3,521% on South East Asia solar panels
-**Published:** Tuesday, April 22, 2025
+## Apple and Meta attack 'unfair' €700m EU fines
+**Published:** Wednesday, April 23, 2025
 
-- The US Commerce Department plans to impose tariffs of up to 3,521% on imports of solar panels from four South East Asian countries.
-- The proposed levies target companies in Cambodia, Thailand, Malaysia, and Vietnam in response to allegations of subsidies from China and dumping of cheap products in the US market.
-- Some solar equipment exporters in Cambodia face the highest duties of 3,521% due to a lack of cooperation with the investigation.
+- The European Union has fined Apple €500m for issues related to its App Store, and Meta €200m for mishandling user data.
+- Both companies have 60 days to comply with the fines, or they risk facing further penalties.
+- This enforcement action was based on the Digital Markets Act (DMA) to promote fairness in the tech sector.
 
-**Takeaway:** The tariffs imposed by the US on South East Asia solar panels aim to address alleged unfair practices, potentially impacting costs for businesses and consumers while benefiting US manufacturers. [Read original article](https://www.bbc.com/news/articles/c5ygdv47vlzo)
+**Takeaway:** Apple and Meta have strongly reacted to the fines, accusing the EU of unfair targeting and imposing restrictions on their operations. [Read original article](https://www.bbc.com/news/articles/cm248vzg9jwo)
 
