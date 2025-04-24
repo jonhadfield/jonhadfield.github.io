@@ -14,62 +14,66 @@ footer: false
 
 
 # Spurs News
-## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
-**Published:** Monday, April 21, 2025
-
-- Nottingham Forest secured a victory against Tottenham, with Nuno Espírito Santo leading his team to success.
-- Nuno's strategic approach involved scoring two quick goals and solidifying defense tactics.
-- Forest's win over Tottenham marked one of the more predictable results of the season.
-
-**Takeaway:** Nuno's impact on Forest's performance and strategic gameplay yielded victory over his former club, Tottenham Hotspur. [Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
-
 ## Who are Man Utd, Tottenham and Chelsea's semi-final opponents?
 **Published:** Friday, April 18, 2025
 
-- Tottenham is set to face Norwegian side Bodo/Glimt in the Europa League semi-finals.
-- Manchester United will compete against Spanish side Athletic Bilbao.
-- Chelsea's semi-final opponent is Swedish side Djurgarden in the Conference League.
+- Manchester United, Tottenham, and Chelsea all secured semi-final places in dramatic matches.
+- Semi-final first legs will take place on May 1, with second legs a week later.
+- Unique insights into the challenges posed by Norwegian side Bodo/Glimt in the Europa League.
 
-**Takeaway:** Tottenham, Manchester United, and Chelsea are gearing up to face challenging opponents in the upcoming semi-final matches in European competitions. [Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
+**Takeaway:** Exciting developments as top teams progress to the semi-finals in European competitions.  
+[Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
+
+## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
+**Published:** Monday, April 21, 2025
+
+- Nottingham Forest's pivotal win over Tottenham fuels their Champions League chase.
+- Nuno Espírito Santo's influence and tactical maneuvers make a significant impact.
+- Forest's strategic gameplay and Nuno's managerial approach highlight the team's potential.
+
+**Takeaway:** Nottingham Forest's strategic victory, guided by Nuno, boosts their pursuit of a top-five finish.  
+[Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
 
 # News
+## 'Our daughters will be with us,' say dads of Southport victims running London Marathon
+**Published:** Thursday, April 24, 2025
 
-## Paddleboard guide jailed for 10 years over deaths of four people in Wales
-**Published:** Wednesday, April 23, 2025
+- Two dads, David Stancombe and Sergio Aguiar, are running the London Marathon in memory of their daughters who tragically died last year.
+- They are raising money for projects established in their daughters' memory, with support from the community.
+- The parents find solace in honoring their daughters' memory through charitable endeavors.
 
-- Nerys Lloyd, a former police officer, was sentenced to 10 years and six months for the gross negligence manslaughter of four individuals during a paddleboarding expedition in Wales.
-- The group faced dangerous conditions due to a rain-swollen river, with participants lacking appropriate safety gear.
-- Lloyd failed to assess risks adequately, leading to a tragic outcome.
+**Takeaway:** The dads running the London Marathon find comfort and connection with their late daughters through fundraising efforts. 
+[Read original article](https://www.bbc.com/news/articles/c99pkz519g2o)
 
-**Takeaway:** The sentencing highlights the consequences of negligence in outdoor activities.  
-[Read original article](https://www.theguardian.com/uk-news/2025/apr/23/paddleboard-instructor-nerys-lloyd-jailed-deaths-river-cleddau-wales)
+## Ofcom announces new rules for tech firms to keep children safe online
+**Published:** Thursday, April 24, 2025
 
-## JD Vance: US will walk away unless Ukraine and Russia agree to proposals
-**Published:** Wednesday, April 23, 2025
+- Social media and internet platforms will be legally required to block children's access to harmful content from July or face significant fines.
+- The UK's Online Safety Act mandates tech firms to implement various measures to protect underage users from harmful online content.
+- Ofcom's new rules aim to create safer online environments for children and ensure responsible platform behavior.
 
-- US Vice-President JD Vance emphasized that the US will withdraw from negotiations between Ukraine and Russia unless a deal is reached.
-- Talks in London aimed at securing a ceasefire saw changes after key US officials withdrew.
-- The US issued a clear proposal to both parties, urging a definitive response to continue diplomatic efforts.
+**Takeaway:** Ofcom's regulations require tech companies to enhance child safety online through strict content monitoring and enforcement measures.
+[Read original article](https://www.theguardian.com/technology/2025/apr/24/ofcom-rules-protect-keep-children-safe-online)
 
-**Takeaway:** Tensions are high as negotiation dynamics shift in the effort to end the conflict between Ukraine and Russia.  
-[Read original article](https://www.bbc.com/news/articles/c78jx68d922o)
+## Government announces crackdown on illegal vapes sales
+**Published:** Thursday, April 24, 2025
 
-## Police failings left predator free to kidnap girl
-**Published:** Wednesday, April 23, 2025
+- The UK government is taking a strong stance against the sale of illegal vapes, implementing fines and potential prison sentences for repeat offenders.
+- Trading Standards will retain fines to enhance enforcement efforts, with a focus on seizing illicit vape products.
+- The efforts include increased enforcement resources at key locations like Heathrow Airport and Dover Port to combat illegal vape sales.
 
-- Failures in policing and workload pressures enabled Lewis Jones, a sexual predator, to abduct a six-year-old girl in Manchester after being under investigation for other attacks.
-- An internal police review revealed errors and lack of oversight in handling Jones' previous case, leaving him free to commit a violent assault.
-
-**Takeaway:** Systemic failures in law enforcement allowed a dangerous individual to victimize a child, raising concerns about public safety measures.  
-[Read original article](https://www.bbc.com/news/articles/c4g7r155j95o)  
+**Takeaway:** The government's measures aim to curb the circulation of illegal vape products and protect consumers from potential health risks associated with non-compliant vapes.
+[Read original article](https://www.theguardian.com/politics/live/2025/apr/24/ed-miliband-energy-pricing-keir-starmer-nigel-farage-latest-live-uk-politics-news)
 
 # Tech News
-## Apple and Meta attack 'unfair' €700m EU fines
-**Published:** Wednesday, April 23, 2025
 
-- The European Union has fined Apple €500m for issues related to its App Store, and Meta €200m for mishandling user data.
-- Both companies have 60 days to comply with the fines, or they risk facing further penalties.
-- This enforcement action was based on the Digital Markets Act (DMA) to promote fairness in the tech sector.
+## Ofcom finalises rules to protect children online
+**Published:** Thursday, April 24, 2025
 
-**Takeaway:** Apple and Meta have strongly reacted to the fines, accusing the EU of unfair targeting and imposing restrictions on their operations. [Read original article](https://www.bbc.com/news/articles/cm248vzg9jwo)
+- Websites in the UK must implement age checks and update algorithm recommendations for young users by July 25 to avoid fines.
+- Platforms hosting harmful content like pornography or encouraging self-harm must take stronger measures to protect children.
+- The new rules by Ofcom require platforms to have named persons accountable for children's safety and to filter harmful content from children's feeds.
+
+**Takeaway:** The new rules aim to provide significant protections for children online by implementing age checks and stricter content filtering on platforms in the UK.  
+[Read original article](https://www.bbc.com/news/articles/c5yljn2vkn1o)
 
