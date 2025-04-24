@@ -17,63 +17,60 @@ footer: false
 ## Who are Man Utd, Tottenham and Chelsea's semi-final opponents?
 **Published:** Friday, April 18, 2025
 
-- Manchester United, Tottenham, and Chelsea all secured semi-final places in dramatic matches.
-- Semi-final first legs will take place on May 1, with second legs a week later.
-- Unique insights into the challenges posed by Norwegian side Bodo/Glimt in the Europa League.
+- Manchester United, Tottenham, and Chelsea secured semi-final spots in the Europa League and Conference League.
+- Chelsea advanced despite a home loss to Legia Warsaw after a strong lead in the first leg.
+- Tottenham faces Norwegian side Bodo/Glimt, Manchester United will play against Athletic Bilbao, and Chelsea takes on Swedish side Djurgarden.
 
-**Takeaway:** Exciting developments as top teams progress to the semi-finals in European competitions.  
-[Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
+**Takeaway:** The three English clubs, Manchester United, Tottenham, and Chelsea, make progress to the semi-finals in European competitions with crucial matchups ahead. [Read original article](https://www.bbc.com/sport/football/articles/c4grkvykn14o)
 
 ## Nuno and Nottingham Forest grateful recipients of Dr Tottenham’s elixir | Ed Aarons
 **Published:** Monday, April 21, 2025
 
-- Nottingham Forest's pivotal win over Tottenham fuels their Champions League chase.
-- Nuno Espírito Santo's influence and tactical maneuvers make a significant impact.
-- Forest's strategic gameplay and Nuno's managerial approach highlight the team's potential.
+- Nottingham Forest, led by Nuno Espírito Santo, achieved a crucial win over Tottenham, boosting their pursuit of a top-five finish.
+- Nuno celebrated Forest’s win over his former club, Tottenham, highlighting his successful tactics and team spirit.
 
-**Takeaway:** Nottingham Forest's strategic victory, guided by Nuno, boosts their pursuit of a top-five finish.  
-[Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
+**Takeaway:** Nottingham Forest's victory under Nuno Espírito Santo against Tottenham demonstrates a significant step forward in their season's aspirations. [Read original article](https://www.theguardian.com/football/2025/apr/21/nuno-and-nottingham-forest-grateful-recipients-of-dr-tottenhams-elixir)
+
+These summaries provide insights into the recent developments involving Manchester United, Tottenham, Chelsea, and Nottingham Forest in European football competitions.
 
 # News
-## 'Our daughters will be with us,' say dads of Southport victims running London Marathon
+
+## UK deal with EU will not return to ‘arguments of the past’, minister says
 **Published:** Thursday, April 24, 2025
 
-- Two dads, David Stancombe and Sergio Aguiar, are running the London Marathon in memory of their daughters who tragically died last year.
-- They are raising money for projects established in their daughters' memory, with support from the community.
-- The parents find solace in honoring their daughters' memory through charitable endeavors.
+- The UK's new deal with the EU will prioritize growth and move on from past debates.
+- Cabinet Office minister emphasizes a focus on pragmatism and national interest in negotiations.
+- UK expected to seek closer regulatory alignment with the EU on trade.
 
-**Takeaway:** The dads running the London Marathon find comfort and connection with their late daughters through fundraising efforts. 
-[Read original article](https://www.bbc.com/news/articles/c99pkz519g2o)
+**Takeaway:** The UK aims for a new partnership with the EU focusing on pragmatic solutions and economic stability. [Read original article](https://www.theguardian.com/politics/2025/apr/24/uk-deal-with-eu-will-not-return-to-arguments-of-the-past-minister-says)
 
-## Ofcom announces new rules for tech firms to keep children safe online
-**Published:** Thursday, April 24, 2025
+## US Peace Plan Raises Concerns Over Crimea
 
-- Social media and internet platforms will be legally required to block children's access to harmful content from July or face significant fines.
-- The UK's Online Safety Act mandates tech firms to implement various measures to protect underage users from harmful online content.
-- Ofcom's new rules aim to create safer online environments for children and ensure responsible platform behavior.
+**Published:** Data not available
 
-**Takeaway:** Ofcom's regulations require tech companies to enhance child safety online through strict content monitoring and enforcement measures.
-[Read original article](https://www.theguardian.com/technology/2025/apr/24/ofcom-rules-protect-keep-children-safe-online)
+- Reports suggest the US peace plan may include recognizing Crimea as part of Russia.
+- Ukraine's stance on Crimea's sovereignty is unwavering.
+- Recognition of Crimea as part of Russia could set a dangerous precedent for international law.
 
-## Government announces crackdown on illegal vapes sales
-**Published:** Thursday, April 24, 2025
+**Takeaway:** The potential US recognition of Crimea as part of Russia raises significant international law concerns. 
 
-- The UK government is taking a strong stance against the sale of illegal vapes, implementing fines and potential prison sentences for repeat offenders.
-- Trading Standards will retain fines to enhance enforcement efforts, with a focus on seizing illicit vape products.
-- The efforts include increased enforcement resources at key locations like Heathrow Airport and Dover Port to combat illegal vape sales.
+## Tragic Mudslide Incident at Adventure Centre
+**Published:** Date of publication not available
 
-**Takeaway:** The government's measures aim to curb the circulation of illegal vape products and protect consumers from potential health risks associated with non-compliant vapes.
-[Read original article](https://www.theguardian.com/politics/live/2025/apr/24/ed-miliband-energy-pricing-keir-starmer-nigel-farage-latest-live-uk-politics-news)
+- Leah's tragic death due to a mudslide was unforeseen and occurred during heavy rain.
+- Investigation found no fault or negligence.
+- Leah was described as a happy person looking forward to the adventure trip.
+
+**Takeaway:** A mudslide tragedy at an adventure center leads to an unexpected loss, raising questions about safety. [Read original article](not available)
 
 # Tech News
-
-## Ofcom finalises rules to protect children online
+## Cyber attack causes further chaos for M&S shoppers
 **Published:** Thursday, April 24, 2025
 
-- Websites in the UK must implement age checks and update algorithm recommendations for young users by July 25 to avoid fines.
-- Platforms hosting harmful content like pornography or encouraging self-harm must take stronger measures to protect children.
-- The new rules by Ofcom require platforms to have named persons accountable for children's safety and to filter harmful content from children's feeds.
+- M&S faced issues with click and collect orders, card, and contactless payments due to a cyber attack.
+- The company had to take systems offline affecting contactless payments, click and collect orders, and online order deliveries.
+- External cyber security experts are assisting in investigating and managing the incident.
 
-**Takeaway:** The new rules aim to provide significant protections for children online by implementing age checks and stricter content filtering on platforms in the UK.  
-[Read original article](https://www.bbc.com/news/articles/c5yljn2vkn1o)
+**Takeaway:** Marks and Spencer grapples with disruptions in store operations following a cyber incident.  
+[Read original article](https://www.bbc.com/news/articles/cly802x1jz5o)
 
