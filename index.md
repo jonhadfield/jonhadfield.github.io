@@ -13,71 +13,56 @@ footer: false
 ---
 
 
-# Tech News
-## Meta AI searches made public - but do all its users realise?
-**Published:** Friday, June 13, 2025
-
-- Some users of Meta AI may be unknowingly making their searches public, potentially revealing personal information.
-- Users' prompts and results with Meta AI are posted on a public feed, leading to privacy and security concerns.
-- Meta AI allows users to make posts public or private but may not ensure full user understanding of the implications.
-
-**Takeaway:** Meta AI users might be sharing sensitive information inadvertently due to potential lack of awareness about their searches being public. 
-[Read original article](https://www.bbc.com/news/articles/c0573lj172jo)
-
-# Spurs News
-## Spurs hold talks over signing Brentford’s Bryan Mbeumo and are interested in Yoane Wissa
-**Published:** Friday, June 13, 2025
-
-- Tottenham has engaged in initial talks to sign Bryan Mbeumo from Brentford and is eyeing his strike partner Yoane Wissa.
-- Thomas Frank, the new manager, targets the duo who scored 39 Premier League goals for Brentford last season to strengthen the Spurs squad.
-- Manchester United is also interested in Mbeumo, with an offer worth up to £55m rejected.
-
-**Takeaway:** Tottenham is actively pursuing Bryan Mbeumo and Yoane Wissa to bolster their squad, with competition from Manchester United. [Read original article](https://www.theguardian.com/football/2025/jun/13/spurs-hold-talks-over-signing-brentfords-bryan-mbeumo-and-interested-in-wissa)
-
-## Spurs file High Court claim against Ratcliffe's Ineos
-**Published:** Friday, June 13, 2025
-
-- Tottenham has initiated High Court proceedings against Jim Ratcliffe's company Ineos Automotive over a terminated sponsorship agreement.
-- Ineos had a five-year deal with Spurs, making its Ineos Grenadier car the club's official 4x4 vehicle partner.
-- Ineos exercised its contractual right to terminate the partnership agreement in December 2024, leading Spurs to file a commercial claim.
-  
-**Takeaway:** Tottenham is taking legal action against Ineos Automotive over a discontinued sponsorship deal, following Ineos' decision to terminate the partnership. [Read original article](https://www.bbc.com/sport/football/articles/c78029rkp44o)
-
 # News
 
-## Who were the Iranian commanders killed in Israel's attack?
-**Published:** Friday, June 13, 2025
+## Marten and Gordon guilty of gross negligence manslaughter of their baby
+**Published:** Monday, July 14, 2025
 
-- Israel conducted strikes across Iran, targeting military sites, nuclear facilities, and residences, resulting in the deaths of senior military commanders, including Mohammad Bagheri, the highest-ranking military officer in Iran.
-- The attacks also killed other influential figures linked to Iran's nuclear programs, including six nuclear scientists.
-- Abdolrahim Mousavi has been appointed the new chief of staff of Iran's armed forces.
+- Constance Marten, 38, and Mark Gordon, 51, were convicted for manslaughter by gross negligence related to their baby's death.
+- The prosecution argued that the couple's actions led to the death of their baby, Victoria, through hypothermia or smothering.
+- Marten and Gordon had four other children taken into care before their baby's death.
 
-**Takeaway:** Israel's "Operation Rising Lion" resulted in the deaths of top Iranian military commanders and influential figures linked to nuclear programs in Iran.
+**Takeaway:** Marten and Gordon found guilty of gross negligence manslaughter after their baby was found dead. [Read original article](https://www.bbc.com/news/articles/cjelz43ggp3o)
 
-[Read original article](https://www.bbc.com/news/articles/c2lk5j18k4vo)
+## Anti-Vax Movement in the UK and US
+**Published:** Monday, July 14, 2025
 
-## So social media has broken even Elon Musk. I’m forced to ask: U OK hun? | Marina Hyde
-**Published:** Friday, June 13, 2025
+- The article discusses historical movements against vaccines including the diphtheria-tetanus-whooping cough vaccine in the 1970s and a similar one in the US in the early 1980s.
+- Wakefield's controversial MMR vaccine study falsely linked autism to the vaccine, contributing to a generalized distrust of vaccination.
+- The impact of anti-vaccine sentiment is seen in spiking measles cases, revealing the consequences of vaccine hesitancy.
 
-- Elon Musk apologized for tweets following a public spat with US president Donald Trump, marking a shift from his usual provocative style.
-- Musk, who owns a significant stake in Twitter, faced criticism for his online behavior and had to issue an apology.
-- The incident highlights the complexities of social media influence and the pressures faced by prominent figures like Musk.
+**Takeaway:** The article explores the origins and consequences of anti-vaccine movements in the UK and US. [Read original article](https://www.theguardian.com/society/commentisfree/2025/jul/14/measles-cases-surging-europe-us-anti-vax-conspiracy-theory)
 
-**Takeaway:** Elon Musk's apology for his online behavior suggests the challenges of managing a large online platform and the potential impact on public figures like him.
+It's important to understand the history and implications of vaccine hesitancy to address misinformation and improve public health efforts.
 
-[Read original article](https://www.theguardian.com/commentisfree/2025/jun/13/social-media-elon-musk-donald-trump-x-platform)
+# Tech News
 
-## The 'extraordinary case' of a heist involving a golden toilet
-**Published:** Friday, June 13, 2025
+## Paddy Power and Betfair users warned of 'email danger' after breach
+**Published:** Monday, July 14, 2025
 
-- Paul Jones and Adam Sheen were sentenced in connection with a heist involving a golden toilet from Blenheim Palace.
-- Jones was involved in reconnaissance at the palace, taking pictures and preparing for the heist.
-- Sheen, a repeat offender with a criminal history, was the alleged mastermind behind the burglary.
+- Up to 800,000 Paddy Power and Betfair customers were affected by a recent hack, compromising personal information including IP addresses, email addresses, and online activity data.
+- The breached data could be used in spear phishing attacks targeting customers based on their gambling habits.
+- Cybersecurity experts advise customers to be cautious of detailed emails urging them to click links or provide sensitive information.
 
-**Takeaway:** The theft of a golden toilet from Blenheim Palace led to sentences for those involved, highlighting the audacious nature of the crime.
+**Takeaway:** Flutter Entertainment has confirmed a data incident affecting a significant number of users, with warnings of potential phishing threats targeting affected customers.  
+[Read original article](https://www.bbc.com/news/articles/cz7l29zved9o)
 
-[Read original article](undefined)
+# Spurs News
+## How are Spurs funding spending spree - and where would signings fit in?
+**Published:** Friday, July 11, 2025
 
-# Conclusion
-These articles cover a range of events including military strikes in Iran, social media controversies involving Elon Musk, and a unique heist involving a golden toilet from Blenheim Palace.
+- Tottenham is set to spend £170m on players like Mohammed Kudus and Morgan Gibbs-White, funded internally and without external investment.
+- The focus is on assembling a team capable of challenging for titles and consistently qualifying for the Champions League.
+- The club's recruitment strategy this summer emphasizes experienced players like Kudus and Gibbs-White to complement the existing young talent.
+
+**Takeaway:** Tottenham's recent heavy investment in players like Kudus and Gibbs-White reflects a shift towards more significant spending to strengthen the squad for competitive goals. [Read original article](https://www.bbc.com/sport/football/articles/c8e4g51g892o)
+
+## Taking flight: how Premier League clubs are racking up 175,000 summer air miles
+**Published:** Saturday, July 12, 2025
+
+- Premier League clubs, including Tottenham, are embarking on extensive pre-season tours and fixtures, accumulating high air mile totals for travel.
+- Teams like Arsenal and Aston Villa are engaging in a series of friendlies and training camps in various locations, including Europe and the US.
+- The intense pre-season schedules involve matches against top clubs and diverse training experiences across different continents.
+
+**Takeaway:** Premier League clubs, including Tottenham, are actively engaged in a rigorous pre-season schedule involving extensive travel and varied match preparations across multiple countries. [Read original article](https://www.theguardian.com/football/2025/jul/12/taking-flight-how-premier-league-clubs-are-racking-up-175000-summer-air-miles)
 
